@@ -19,6 +19,8 @@
   --gs-blue: #3D9BE9;
   --jpm-navy: #6C8EBF;
   --ms-teal: #4ECDC4;
+  --bii-orange: #E07850;
+  --jef-purple: #9B7FD4;
 
   --font-display: 'Playfair Display', Georgia, serif;
   --font-body: 'DM Sans', 'Noto Sans KR', sans-serif;
@@ -243,6 +245,8 @@ body {
 .source-dot.gs  { background: var(--gs-blue); }
 .source-dot.jpm { background: var(--jpm-navy); }
 .source-dot.ms  { background: var(--ms-teal); }
+.source-dot.bii { background: var(--bii-orange); }
+.source-dot.jef { background: var(--jef-purple); }
 
 /* ── MAIN CONTENT ── */
 .main-content {
@@ -286,6 +290,8 @@ body {
 .article-card[data-source="goldman-sachs"]::before { background: var(--gs-blue); }
 .article-card[data-source="jpmorgan"]::before       { background: var(--jpm-navy); }
 .article-card[data-source="morgan-stanley"]::before { background: var(--ms-teal); }
+.article-card[data-source="blackrock"]::before      { background: var(--bii-orange); }
+.article-card[data-source="jefferies"]::before      { background: var(--jef-purple); }
 
 .article-card:hover {
   background: var(--bg-card-hover);
@@ -314,9 +320,11 @@ body {
   border-radius: 100px;
 }
 
-.source-badge.gs  { background: rgba(61,155,233,0.12); color: var(--gs-blue); }
+.source-badge.gs  { background: rgba(61,155,233,0.12);  color: var(--gs-blue); }
 .source-badge.jpm { background: rgba(108,142,191,0.12); color: var(--jpm-navy); }
 .source-badge.ms  { background: rgba(78,205,196,0.12);  color: var(--ms-teal); }
+.source-badge.bii { background: rgba(224,120,80,0.12);  color: var(--bii-orange); }
+.source-badge.jef { background: rgba(155,127,212,0.12); color: var(--jef-purple); }
 
 .card-date {
   font-size: 11px;

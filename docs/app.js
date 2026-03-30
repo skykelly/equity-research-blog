@@ -6,9 +6,11 @@ const DATA_URL = "data/articles.json";
 const PAGE_SIZE = 18;
 
 const SOURCE_CONFIG = {
-  "goldman-sachs": { label: "Goldman Sachs", cls: "gs" },
-  "jpmorgan":      { label: "J.P. Morgan",   cls: "jpm" },
+  "goldman-sachs": { label: "Goldman Sachs",  cls: "gs" },
+  "jpmorgan":      { label: "J.P. Morgan",    cls: "jpm" },
   "morgan-stanley":{ label: "Morgan Stanley", cls: "ms" },
+  "blackrock":     { label: "BlackRock BII",  cls: "bii" },
+  "jefferies":     { label: "Jefferies",      cls: "jef" },
 };
 
 // ── State ──────────────────────────────────────

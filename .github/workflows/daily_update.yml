@@ -1,6 +1,8 @@
 name: Daily Research Update & Deploy
 
 on:
+  push:
+    branches: [main]
   schedule:
     # 매일 오전 10시 KST (UTC 01:00)
     - cron: '0 1 * * *'
