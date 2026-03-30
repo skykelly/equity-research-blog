@@ -40,7 +40,7 @@ jobs:
 
       - name: Run scraper pipeline
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ "${{ github.event.inputs.initial_run }}" = "true" ]; then
             echo "Running initial collection (targeting 20 articles)..."

@@ -1,13 +1,21 @@
 """
-Claude API Korean Summarizer
+GitHub Models Korean Summarizer
 Summarizes English financial research articles into Korean (150 chars)
+Uses GitHub Models API (OpenAI-compatible) — auth via GITHUB_TOKEN
 """
 
-import anthropic
+import os
 import time
 import re
+from openai import OpenAI
 
-client = anthropic.Anthropic()
+GITHUB_MODELS_ENDPOINT = "https://models.inference.ai.azure.com"
+MODEL = "gpt-4o-mini"
+
+client = OpenAI(
+    base_url=GITHUB_MODELS_ENDPOINT,
+    api_key=os.environ.get("GITHUB_TOKEN", ""),
+)
 
 SYSTEM_PROMPT = """당신은 글로벌 IB(투자은행) 리서치 전문 번역·요약가입니다.
 영어로 된 금융 리서치 아티클을 한국어로 간결하게 요약하는 것이 역할입니다.
@@ -20,11 +28,9 @@ def summarize_to_korean(title: str, body: str, source_name: str) -> str:
     Returns Korean summary string.
     """
 
-    # If we have no body content, summarize from title only
     content_for_summary = body.strip() if body.strip() else "(본문 없음 - 제목 기반 요약)"
     word_count = len(content_for_summary.split())
 
-    # Truncate very long bodies to control token usage
     if word_count > 600:
         content_for_summary = " ".join(content_for_summary.split()[:600]) + "..."
 
@@ -44,13 +50,15 @@ def summarize_to_korean(title: str, body: str, source_name: str) -> str:
 한국어 요약:"""
 
     try:
-        response = client.messages.create(
-            model="claude-opus-4-5",
+        response = client.chat.completions.create(
+            model=MODEL,
             max_tokens=200,
-            system=SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": prompt}],
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": prompt},
+            ],
         )
-        summary = response.content[0].text.strip()
+        summary = response.choices[0].message.content.strip()
 
         # Clean up any markdown artifacts
         summary = re.sub(r"^\*+\s*", "", summary)
@@ -59,7 +67,6 @@ def summarize_to_korean(title: str, body: str, source_name: str) -> str:
 
         # Enforce 200 char limit (buffer over 150 for natural ending)
         if len(summary) > 200:
-            # Try to cut at a sentence boundary
             truncated = summary[:200]
             last_period = truncated.rfind(".")
             if last_period > 100:
@@ -92,7 +99,6 @@ def summarize_articles(articles: list[dict], delay_seconds: float = 0.5) -> list
         )
         processed += 1
 
-        # Rate limiting - be gentle with the API
         if delay_seconds > 0:
             time.sleep(delay_seconds)
 
