@@ -17,8 +17,6 @@ from jpm_scraper import fetch_articles as fetch_jpm
 from ms_scraper import fetch_articles as fetch_ms
 from blackrock_scraper import fetch_articles as fetch_bii
 from jefferies_scraper import fetch_articles as fetch_jef
-from deloitte_scraper import fetch_articles as fetch_del
-from seekingalpha_scraper import fetch_articles as fetch_sa
 from summarizer import summarize_articles
 
 DATA_FILE = Path(__file__).parent.parent / "data" / "articles.json"
@@ -62,8 +60,6 @@ def run_pipeline(initial_run: bool = False) -> None:
         ("Morgan Stanley",   fetch_ms),
         ("BlackRock BII",    fetch_bii),
         ("Jefferies",        fetch_jef),
-        ("Deloitte Insights",fetch_del),
-        ("Seeking Alpha",    fetch_sa),
     ]
 
     for name, fetcher in sources:

@@ -1,423 +1,5 @@
 [
   {
-    "id": "jef_e5f539b201",
-    "source_id": "jefferies",
-    "source_name": "Jefferies",
-    "title": "What Will Drive India’s Growth for the Next 20 Years?",
-    "url": "https://www.jefferies.com/insights/the-big-picture/what-will-drive-indias-growth-for-the-next-20-years/",
-    "published_date": "2024-09-16",
-    "summary_ko": "인도의 주식시장 규모는 현재 5조 달러로, 2030년에는 10조 달러에 이를 것으로 전망되며, 2028년에는 세계 3위 경제국으로 부상할 예정이다. 20년간 1억 7천5백만명의 노동 연령 인구가 증가할 것으로 보인다.",
-    "category": "Macro & Rates",
-    "collected_at": "2026-03-30T14:44:04.008503Z"
-  },
-  {
-    "id": "jef_fe2d65db2c",
-    "source_id": "jefferies",
-    "source_name": "Jefferies",
-    "title": "Mid-Year Review: A Record-Breaking 1H of 2024 for the Secondary Market",
-    "url": "https://www.jefferies.com/insights/the-big-picture/mid-year-review-a-record-breaking-1h-of-2024-for-the-secondary-market/",
-    "published_date": "2024-08-08",
-    "summary_ko": "2024년 상반기 글로벌 세컨더리 시장 거래량이 680억 달러로 사상 최고치를 기록했다. LP 포트폴리오 가격은 NAV의 88%로 상승세를 이어갈 전망이다.",
-    "category": "Equity Markets",
-    "collected_at": "2026-03-30T14:44:04.548689Z"
-  },
-  {
-    "id": "jef_d4d863c45d",
-    "source_id": "jefferies",
-    "source_name": "Jefferies",
-    "title": "How European Mid-Caps Became One of the World’s Most Compelling Investment Stories",
-    "url": "https://www.jefferies.com/insights/boardroom-intelligence/how-european-mid-caps-became-one-of-the-worlds-most-compelling-investment-stories/",
-    "published_date": "2026-03-19",
-    "summary_ko": "2025년 유럽 중형주가 매력적인 투자처로 부각되고 있으며, AI 기술 채택에 앞장선 기업들이 증가하고 있다. 저평가된 기업들이 많아 장기 성장 전망이 긍정적이다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:05.314199Z"
-  },
-  {
-    "id": "jef_9ab38d07f7",
-    "source_id": "jefferies",
-    "source_name": "Jefferies",
-    "title": "Is IT Services the First Real Example of AI Disruption?",
-    "url": "https://www.jefferies.com/insights/boardroom-intelligence/is-it-services-the-first-real-example-of-ai-disruption/",
-    "published_date": "2026-03-12",
-    "summary_ko": "IT 서비스 분야에서 AI가 기존 비즈니스 모델을 변화시키고 있으며, Jefferies는 관리형 서비스 수익이 감소하고 자문 및 구현 프로젝트에 집중하게 될 것이라고 전망합니다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:06.177039Z"
-  },
-  {
-    "id": "jef_cbfd8aa7e1",
-    "source_id": "jefferies",
-    "source_name": "Jefferies",
-    "title": "Opportunities Abound Amid Overblown Software Selloff",
-    "url": "https://www.jefferies.com/insights/boardroom-intelligence/opportunities-abound-amid-overblown-software-selloff/",
-    "published_date": "2026-02-11",
-    "summary_ko": "소프트웨어 주식이 22% 하락했지만, AI가 기존 모델을 넘어서는 기회를 창출하고 있어 우량 소프트웨어 기업의 경쟁력이 여전하다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:06.818330Z"
-  },
-  {
-    "id": "jef_3cf0d56d27",
-    "source_id": "jefferies",
-    "source_name": "Jefferies",
-    "title": "Why Is Global Capital Pouring Into MENA, India, and Korea?",
-    "url": "https://www.jefferies.com/insights/boardroom-intelligence/why-is-global-capital-pouring-into-mena-india-and-korea/",
-    "published_date": "2025-12-19",
-    "summary_ko": "중동, 인도, 한국은 글로벌 자본 유입의 주요 수혜 지역으로 부상하고 있으며, MSCI EM에서 중동 비중이 7%로 증가했다. 포스트 팬데믹 자본 회전이 Asia 및 MENA로 향하고 있다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:07.352841Z"
-  },
-  {
-    "id": "jef_94978d262e",
-    "source_id": "jefferies",
-    "source_name": "Jefferies",
-    "title": "Understanding the Diversity Within Emerging Markets",
-    "url": "https://www.jefferies.com/insights/boardroom-intelligence/understanding-the-diversity-within-emerging-markets/",
-    "published_date": "2025-12-19",
-    "summary_ko": "2025년, 신흥시장은 30% 상승하며 역사적 성과를 기록할 것으로 보인다. 기술 혁신과 사회改革이 각국 성장 동력을 이끌며, 평가 저평가 상태가 지속돼 장기 투자 기회가 증가할 전망이다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:07.949981Z"
-  },
-  {
-    "id": "jef_00ae3bd42b",
-    "source_id": "jefferies",
-    "source_name": "Jefferies",
-    "title": "A New Anchor in Emerging Markets: The Middle East’s Growth Story",
-    "url": "https://www.jefferies.com/insights/boardroom-intelligence/a-new-anchor-in-emerging-markets-the-middle-easts-growth-story/",
-    "published_date": "2025-12-18",
-    "summary_ko": "중동 시장은 글로벌 투자자들에게 매력적인 곳으로 부상하고 있으며, GCC 시장은 MSCI EM의 6.5%를 차지한다. 강력한 재정과 인구 성장 덕분에 자본 유입이 계속될 전망이다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:08.661402Z"
-  },
-  {
-    "id": "jef_49b6e150c4",
-    "source_id": "jefferies",
-    "source_name": "Jefferies",
-    "title": "Investing in Care: The PE Playbook for Healthcare Transformation",
-    "url": "https://www.jefferies.com/insights/boardroom-intelligence/investing-in-care-the-pe-playbook-for-healthcare-transformation/",
-    "published_date": "2025-12-11",
-    "summary_ko": "헬스케어 투자에서 PE 투자자들은 자본과 운영 전문성이 필수적이라고 강조했다. 거래 구조는 유연성이 중요하며, 미국과 유럽에서 주주 잔여 지분 보유가 증가하고 있다.",
-    "category": "Macro & Rates",
-    "collected_at": "2026-03-30T14:44:09.327283Z"
-  },
-  {
-    "id": "jef_8422439685",
-    "source_id": "jefferies",
-    "source_name": "Jefferies",
-    "title": "How Steven Klinsky Built One of Private Equity’s Leading Firms",
-    "url": "https://www.jefferies.com/insights/boardroom-intelligence/how-steven-klinsky-built-one-of-private-equitys-leading-firms/",
-    "published_date": "2025-12-04",
-    "summary_ko": "스티븐 클린스키는 뉴 마운틴 캐피탈을 600억 달러 규모로 성장시켰으며, 방어적 성장과 비즈니스 구축을 원칙으로 삼았다. 투자자에게 간결하고 확신 있는 피치를 강조했다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:10.101132Z"
-  },
-  {
-    "id": "del_cc0059252e",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Consumer Products",
-    "url": "https://www.deloitte.com/us/en/insights/industry/consumer-products.html",
-    "published_date": "2026-03-30",
-    "summary_ko": "소비자와 기업은 신속한 변화에 적응하며 제품과 서비스 구매 방식을 변화시키고 있다. Deloitte는 소비자 행동, 인플레이션, 신뢰 등이 시장 신호에 미치는 영향을 분석하여 경영자들에게 실행 가능한 통찰을 제공한다.",
-    "category": "Macro & Rates",
-    "collected_at": "2026-03-30T14:44:10.404535Z"
-  },
-  {
-    "id": "del_bc446bfc98",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Retail, Wholesale & Distribution",
-    "url": "https://www.deloitte.com/us/en/insights/industry/retail-distribution.html",
-    "published_date": "2026-03-30",
-    "summary_ko": "소비자 행동 변화에 따라 소매업체들은 더 나은 제품과 서비스를 제공해야 한다. Deloitte는 소비자 행동과 시장 신호를 분석해 주요 트렌드를 파악할 것을 권장한다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:10.723734Z"
-  },
-  {
-    "id": "del_1a54d46b61",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Aerospace & Defense",
-    "url": "https://www.deloitte.com/us/en/insights/industry/aerospace-defense.html",
-    "published_date": "2026-03-30",
-    "summary_ko": "델로이트 리서치센터는 에너지 및 산업 분야의 기회를 발굴하여 비즈니스 성장을 지원한다. 스마트하고 연결된 세상을 위한 산업 발전이 중요해지고 있다.",
-    "category": "Energy & Climate",
-    "collected_at": "2026-03-30T14:44:11.724771Z"
-  },
-  {
-    "id": "del_44d5eb813d",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Chemicals & Specialty Materials",
-    "url": "https://www.deloitte.com/us/en/insights/industry/chemicals-and-specialty-materials.html",
-    "published_date": "2026-03-30",
-    "summary_ko": "Deloitte 연구센터는 에너지 및 산업 분야의 기회를 발굴하여 비즈니스 성장을 지원합니다. 특히, 친환경 화학 및 특수 소재 시장에서 지속 가능성을 강조합니다.",
-    "category": "Energy & Climate",
-    "collected_at": "2026-03-30T14:44:12.644324Z"
-  },
-  {
-    "id": "del_cb8f479067",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Engineering & Construction",
-    "url": "https://www.deloitte.com/us/en/insights/industry/engineering-and-construction.html",
-    "published_date": "2026-03-30",
-    "summary_ko": "델로이트 리서치 센터는 에너지 및 산업 부문과 관련된 기회를 발굴하고, 비즈니스 성장을 지원하는 인사이트를 제공합니다. 지속 가능한 미래를 위한 전략이 중요합니다.",
-    "category": "Energy & Climate",
-    "collected_at": "2026-03-30T14:44:12.778348Z"
-  },
-  {
-    "id": "del_259dc30f6c",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Industrial Manufacturing",
-    "url": "https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products.html",
-    "published_date": "2026-03-30",
-    "summary_ko": "딜로이트 에너지 및 산업 리서치 센터는 산업 제조 부문의 기회를 모색하며, 에너지 전환 및 디지털 혁신을 통해 기업의 생산성 향상에 기여할 전망이다.",
-    "category": "Energy & Climate",
-    "collected_at": "2026-03-30T14:44:13.571414Z"
-  },
-  {
-    "id": "del_3f5c8d49b7",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Power & Utilities",
-    "url": "https://www.deloitte.com/us/en/insights/industry/power-and-utilities.html",
-    "published_date": "2026-03-30",
-    "summary_ko": "Deloitte의 에너지 및 산업 리서치 센터는 스마트하고 연결된 미래를 위한 기회를 발굴하여 기업의 성장 가능성을 높인다.",
-    "category": "Energy & Climate",
-    "collected_at": "2026-03-30T14:44:14.635950Z"
-  },
-  {
-    "id": "del_40873d75a7",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Renewable Energy",
-    "url": "https://www.deloitte.com/us/en/insights/industry/renewable-energy.html",
-    "published_date": "2026-03-30",
-    "summary_ko": "Deloitte 리서치는 에너지 및 산업 부문에서 지속 가능성 및 디지털 혁신 기회를 통해 비즈니스 성장을 촉진할 수 있음을 강조한다.",
-    "category": "Energy & Climate",
-    "collected_at": "2026-03-30T14:44:15.504522Z"
-  },
-  {
-    "id": "del_dd3e96df31",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Banking & Capital Markets",
-    "url": "https://www.deloitte.com/us/en/insights/industry/banking-and-capital-markets.html",
-    "published_date": "2026-03-30",
-    "summary_ko": "딜로이트 금융 서비스 센터는 금융 기관의 전략과 기술을 지원하고, 시장 동향 및 혁신에 대한 인사이트를 제공합니다.",
-    "category": "Equity Markets",
-    "collected_at": "2026-03-30T14:44:15.637210Z"
-  },
-  {
-    "id": "del_1b7a721d62",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Commercial Real Estate",
-    "url": "https://www.deloitte.com/us/en/insights/industry/real-estate.html",
-    "published_date": "2026-03-30",
-    "summary_ko": "델로이트는 금융 서비스 분야의 전문가들이 참여하여 상업용 부동산 시장에 대한 인사이트와 전략을 제공합니다.",
-    "category": "Equity Markets",
-    "collected_at": "2026-03-30T14:44:17.401383Z"
-  },
-  {
-    "id": "sa_c6e4a4e87b",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Global governments have low scope for fiscal offset amid the Middle East conflict – economist",
-    "url": "https://seekingalpha.com/news/4570248-global-governments-have-low-scope-for-fiscal-offset-amid-the-middle-east-conflict-economist?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "중동 갈등 속에서 글로벌 정부의 재정적 대응 여력이 제한적이다. 이는 경제 회복에 부정적인 영향 미칠 것으로 예상된다.",
-    "category": "Global Markets",
-    "collected_at": "2026-03-30T14:44:17.500326Z"
-  },
-  {
-    "id": "sa_00f69a6e65",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Ultragenyx gains FDA IND clearance of UX016 for GNE myopathy",
-    "url": "https://seekingalpha.com/news/4570241-ultragenyx-gains-fda-ind-clearance-ux016-gne-myopathy?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "Ultragenyx는 GNE myopathy 치료제 UX016에 대해 FDA의 IND 승인을 받았다. 이는 임상 시험 진행을 가능하게 한다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:17.500352Z"
-  },
-  {
-    "id": "sa_ff8e35d72e",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Adecoagro jumps 8% as UBS upgrades to Buy on urea upside, Profertil acquisition",
-    "url": "https://seekingalpha.com/news/4570246-adecoagro-jumps-8-as-ubs-upgrades-to-buy-on-urea-upside-profertil-acquisition?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "UBS가 Adecoagro의 투자를 '매수'로 상향 조정하며, 요소비료 상승 및 Profertil 인수로 주가가 8% 상승했다.",
-    "category": "Global Markets",
-    "collected_at": "2026-03-30T14:44:17.500378Z"
-  },
-  {
-    "id": "sa_0c28355921",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Dallas Fed Manufacturing Index down to -0.2 in March",
-    "url": "https://seekingalpha.com/news/4570242-dallas-fed-manufacturing-index-down-to--02-in-march?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "달라스 연방준비은행 제조업지수가 3월 -0.2로 하락하며 경기 둔화를 시사한다. 이는 경제에 부정적인 신호로 해석된다.",
-    "category": "Macro & Rates",
-    "collected_at": "2026-03-30T14:44:17.500397Z"
-  },
-  {
-    "id": "sa_3be06055d9",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Microsoft takes wraps off AI upgrades, unveils new deep research system Critique",
-    "url": "https://seekingalpha.com/news/4570243-microsoft-takes-wraps-off-ai-upgrades-unveils-new-deep-research-system-critique?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "마이크로소프트는 AI 업그레이드를 공개하고 새로운 심층 연구 시스템인 Critique를 선보였다. 이는 경쟁력을 강화할 것으로 예상된다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:17.500414Z"
-  },
-  {
-    "id": "sa_850cfda42b",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Iran tightens grip over traffic through Strait of Hormuz, providing critical war leverage",
-    "url": "https://seekingalpha.com/news/4570234-iran-tightens-grip-over-traffic-through-strait-of-hormuz-providing-critical-war-leverage?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "이란은 호르무즈 해협의 교통 통제를 강화하며 전쟁에서의 전략적 우위를 확보하고 있다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:44:17.500448Z"
-  },
-  {
-    "id": "sa_929f26a301",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Goldman Sachs initiates Qualcomm at Neutral as market diversification meets smartphone losses",
-    "url": "https://seekingalpha.com/news/4570215-goldman-sachs-initiates-qualcomm-at-neutral-as-market-diversification-meets-smartphone-losses?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "골드만삭스는 Qualcomm에 대해 중립적 평가를 개시하며, 스마트폰 시장 손실이 시장 다변화에 맞물리고 있다고 분석했다.",
-    "category": "Equity Markets",
-    "collected_at": "2026-03-30T14:44:17.500497Z"
-  },
-  {
-    "id": "sa_9ae2b7ce6a",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Aurinia Pharmaceuticals acquiring Kezar Life Sciences",
-    "url": "https://seekingalpha.com/news/4570232-aurinia-pharmaceuticals-acquiring-kezar-life-sciences?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "Aurinia Pharmaceuticals가 Kezar Life Sciences를 인수하면서 성장 기회를 확대하고, 면역 질환 치료제 포트폴리오를 강화할 전망이다.",
-    "category": "Global Markets",
-    "collected_at": "2026-03-30T14:44:17.500525Z"
-  },
-  {
-    "id": "sa_74bfd56a5d",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "SA Infographic: Month 1 of Iran War Triggers Biggest Oil Shock Since 1973",
-    "url": "https://seekingalpha.com/news/4570231-sa-infographic-month-1-of-iran-war-triggers-biggest-oil-shock-since-1973?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "이란 전쟁 1개월째, 1973년 이후 최대의 석유 충격이 발생하며 유가 상승 압력이 강화되고 있다.",
-    "category": "Energy & Climate",
-    "collected_at": "2026-03-30T14:44:17.500543Z"
-  },
-  {
-    "id": "sa_ca5d306b4a",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Here are the major earnings after the close Monday",
-    "url": "https://seekingalpha.com/news/4570013-here-are-the-major-earnings-after-the-close-monday?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "월요일 장 마감 후 주요 기업 실적 발표가 예상되며, 시장의 방향성에 큰 영향을 미칠 전망이다.",
-    "category": "Equity Markets",
-    "collected_at": "2026-03-30T14:44:17.500561Z"
-  },
-  {
-    "id": "sa_e66a21baa3",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Rezolve AI FY25 GAAP revenue hits $46.8M; 2026 guidance lifted to $360M",
-    "url": "https://seekingalpha.com/news/4570233-rezolve-ai-fy25-gaap-revenue-hits-468m-2026-guidance-lifted-to-360m?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "Rezolve AI의 FY25 GAAP 매출은 4,680만 달러에 도달했으며, 2026년 매출 가이던스는 3억 6천만 달러로 상향 조정됐다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:30:01.333647Z"
-  },
-  {
-    "id": "sa_d6c05bc9b6",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "General Motors boosting production of heavy-duty trucks to meet demand",
-    "url": "https://seekingalpha.com/news/4570225-general-motors-boosting-production-of-heavy-duty-trucks-to-meet-demand?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "GM은 중형 트럭 생산을 늘려 수요를 충족시키며, 이를 통해 시장 점유율 확대와 매출 증가를 기대하고 있다.",
-    "category": "Global Markets",
-    "collected_at": "2026-03-30T14:30:01.333683Z"
-  },
-  {
-    "id": "sa_2bb4273845",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Murphy USA is the best performing consumer discretionary stock in March",
-    "url": "https://seekingalpha.com/news/4570238-murphy-usa-is-the-best-performing-consumer-discretionary-stock-in-march?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "머피 USA는 3월에 소비재 섹터에서 가장 뛰어난 성과를 보인 주식이다.",
-    "category": "Equity Markets",
-    "collected_at": "2026-03-30T14:30:01.333706Z"
-  },
-  {
-    "id": "sa_4e7af459f7",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Signet Jewelers added as a new short idea at Hedgeye",
-    "url": "https://seekingalpha.com/news/4570237-signet-jewelers-added-as-a-new-short-idea-at-hedgeye?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "Hedgeye가 Signet Jewelers를 새로운 숏 아이디어로 추가했다. 이는 주가 하락 전망을 반영하는 결정이다.",
-    "category": "Global Markets",
-    "collected_at": "2026-03-30T14:30:01.333728Z"
-  },
-  {
-    "id": "sa_a23239f88a",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "Canada awards $1.5B in aircraft-support contracts to L3Harris, Airbus",
-    "url": "https://seekingalpha.com/news/4570240-canada-awards-1_5b-in-aircraft-support-contracts-to-l3harris-airbus?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "캐나다가 L3Harris와 Airbus에 15억 달러 규모의 항공기 지원 계약을 체결했다. 이는 방위 및 항공 산업에 긍정적인 영향을 미칠 것으로 예상된다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:30:01.333743Z"
-  },
-  {
-    "id": "sa_08a9a27dd6",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "JPMorgan-led banking group's $7.2B debt deal to fund Sealed Air-CD&R deal faces pushback - report",
-    "url": "https://seekingalpha.com/news/4570229-jpmorgan-led-banking-groups-72b-debt-deal-to-fund-sealed-air-cdr-deal-faces-pushback---report?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "JPMorgan 주도 은행 그룹이 Sealed Air와 CD&R 거래를 위해 72억 달러 규모의 채무 거래를 추진하나, 예상치 못한 반발에 직면했다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:30:01.333758Z"
-  },
-  {
-    "id": "sa_25916a6504",
-    "source_id": "seeking-alpha",
-    "source_name": "Seeking Alpha",
-    "title": "The world will be less dependent on the Persian Gulf in 3-5 years – strategist",
-    "url": "https://seekingalpha.com/news/4570239-the-world-will-be-less-dependent-on-the-persian-gulf-in-3minus-5-years-strategist?source=generic_rss",
-    "published_date": "2026-03-30",
-    "summary_ko": "향후 3-5년 내에 세계는 페르시아만에 대한 의존도가 감소할 것으로 전망된다. 이는 에너지 다변화 및 대체 에너지 개발에 기인한다.",
-    "category": "Macro & Rates",
-    "collected_at": "2026-03-30T14:30:01.333779Z"
-  },
-  {
-    "id": "del_d8476d767c",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Digital Media Trends",
-    "url": "https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey.html",
-    "published_date": "2026-03-24",
-    "summary_ko": "팬들은 대중문화 콘텐츠와 지속적인 관계를 원하며, 비수기가 기회의 영역으로 작용할 수 있음을 시사한다. 3,575명의 소비자 설문에 기반한 이번 리서치는 팬 기반의 중요성을 강조한다.",
-    "category": "AI & Technology",
-    "collected_at": "2026-03-30T14:29:58.833439Z"
-  },
-  {
     "id": "bii_7a426e9bee",
     "source_id": "blackrock",
     "source_name": "BlackRock BII",
@@ -427,17 +9,6 @@
     "summary_ko": "BlackRock은 시장 불확실성이 지속되는 가운데 내년보다 낮은 성장률을 전망하고 있으며, 금리와 인플레이션 압박이 투자 결정에 영향을 미칠 것이라고 경고합니다.",
     "category": "Macro & Rates",
     "collected_at": "2026-03-30T14:29:54.107134Z"
-  },
-  {
-    "id": "del_9469a03630",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Weekly Global Economic Outlook",
-    "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html",
-    "published_date": "2026-03-23",
-    "summary_ko": "미국의 액화천연가스(LNG) 수출이 증가할 전망이나, 생산 확대에는 시간이 필요하다. 중동 석유 부족으로 항공사들이 항공유 부족을 우려하며, 항공료가 상승할 수 있다. 이로 인해 수요 감소가 우려된다.",
-    "category": "Global Markets",
-    "collected_at": "2026-03-30T14:29:58.336777Z"
   },
   {
     "id": "ms_d72c58827d",
@@ -471,6 +42,17 @@
     "summary_ko": "AI 수요 급증이 반도체 슈퍼사이클 재점화 논거로 부상하나, 설비 투자 과잉과 재고 사이클이 단기 조정 위험을 내포. HBM과 맞춤형 AI 칩 분야는 구조적 성장 지속. 범용 메모리는 2026년 하반기 수급 개선 전망.",
     "category": "AI & Technology",
     "collected_at": "2026-03-28T01:00:00Z"
+  },
+  {
+    "id": "jef_d4d863c45d",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "How European Mid-Caps Became One of the World’s Most Compelling Investment Stories",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/how-european-mid-caps-became-one-of-the-worlds-most-compelling-investment-stories/",
+    "published_date": "2026-03-19",
+    "summary_ko": "2025년 유럽 중형주가 매력적인 투자처로 부각되고 있으며, AI 기술 채택에 앞장선 기업들이 증가하고 있다. 저평가된 기업들이 많아 장기 성장 전망이 긍정적이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T14:44:05.314199Z"
   },
   {
     "id": "ms_3ba3c0050b",
@@ -550,6 +132,17 @@
     "collected_at": "2026-03-30T06:49:09.783643Z"
   },
   {
+    "id": "jef_9ab38d07f7",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Is IT Services the First Real Example of AI Disruption?",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/is-it-services-the-first-real-example-of-ai-disruption/",
+    "published_date": "2026-03-12",
+    "summary_ko": "IT 서비스 분야에서 AI가 기존 비즈니스 모델을 변화시키고 있으며, Jefferies는 관리형 서비스 수익이 감소하고 자문 및 구현 프로젝트에 집중하게 될 것이라고 전망합니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T14:44:06.177039Z"
+  },
+  {
     "id": "jpm_seed_002",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
@@ -603,17 +196,6 @@
     "summary_ko": "연준의 금리 동결 기조가 2026년 하반기까지 지속될 가능성이 높음. 달러 강세가 신흥국 통화와 원자재 가격에 하방 압력으로 작용. 유럽 경기 회복은 완만한 수준에 그칠 전망.",
     "category": "Macro & Rates",
     "collected_at": "2026-03-28T01:00:00Z"
-  },
-  {
-    "id": "del_63bff50200",
-    "source_id": "deloitte",
-    "source_name": "Deloitte Insights",
-    "title": "Human Capital Trends",
-    "url": "https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends.html",
-    "published_date": "2026-03-04",
-    "summary_ko": "Deloitte Insights의 최신 글로벌 금융 시장 분석 리포트입니다.",
-    "category": "Global Markets",
-    "collected_at": "2026-03-30T14:29:58.624062Z"
   },
   {
     "id": "bii_7a39983c4f",
@@ -748,6 +330,17 @@
     "collected_at": "2026-03-28T01:00:00Z"
   },
   {
+    "id": "jef_cbfd8aa7e1",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Opportunities Abound Amid Overblown Software Selloff",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/opportunities-abound-amid-overblown-software-selloff/",
+    "published_date": "2026-02-11",
+    "summary_ko": "소프트웨어 주식이 22% 하락했지만, AI가 기존 모델을 넘어서는 기회를 창출하고 있어 우량 소프트웨어 기업의 경쟁력이 여전하다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T14:44:06.818330Z"
+  },
+  {
     "id": "jef_5b535fae26",
     "source_id": "jefferies",
     "source_name": "Jefferies",
@@ -825,6 +418,39 @@
     "collected_at": "2026-03-30T06:51:13.393889Z"
   },
   {
+    "id": "jef_3cf0d56d27",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Why Is Global Capital Pouring Into MENA, India, and Korea?",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/why-is-global-capital-pouring-into-mena-india-and-korea/",
+    "published_date": "2025-12-19",
+    "summary_ko": "중동, 인도, 한국은 글로벌 자본 유입의 주요 수혜 지역으로 부상하고 있으며, MSCI EM에서 중동 비중이 7%로 증가했다. 포스트 팬데믹 자본 회전이 Asia 및 MENA로 향하고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T14:44:07.352841Z"
+  },
+  {
+    "id": "jef_94978d262e",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Understanding the Diversity Within Emerging Markets",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/understanding-the-diversity-within-emerging-markets/",
+    "published_date": "2025-12-19",
+    "summary_ko": "2025년, 신흥시장은 30% 상승하며 역사적 성과를 기록할 것으로 보인다. 기술 혁신과 사회改革이 각국 성장 동력을 이끌며, 평가 저평가 상태가 지속돼 장기 투자 기회가 증가할 전망이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T14:44:07.949981Z"
+  },
+  {
+    "id": "jef_00ae3bd42b",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "A New Anchor in Emerging Markets: The Middle East’s Growth Story",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/a-new-anchor-in-emerging-markets-the-middle-easts-growth-story/",
+    "published_date": "2025-12-18",
+    "summary_ko": "중동 시장은 글로벌 투자자들에게 매력적인 곳으로 부상하고 있으며, GCC 시장은 MSCI EM의 6.5%를 차지한다. 강력한 재정과 인구 성장 덕분에 자본 유입이 계속될 전망이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T14:44:08.661402Z"
+  },
+  {
     "id": "jpm_8904156ed2",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
@@ -834,6 +460,28 @@
     "summary_ko": "J.P. Morgan의 최신 글로벌 금융 시장 분석 리포트입니다.",
     "category": "Equity Markets",
     "collected_at": "2026-03-30T06:49:14.824225Z"
+  },
+  {
+    "id": "jef_49b6e150c4",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Investing in Care: The PE Playbook for Healthcare Transformation",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/investing-in-care-the-pe-playbook-for-healthcare-transformation/",
+    "published_date": "2025-12-11",
+    "summary_ko": "헬스케어 투자에서 PE 투자자들은 자본과 운영 전문성이 필수적이라고 강조했다. 거래 구조는 유연성이 중요하며, 미국과 유럽에서 주주 잔여 지분 보유가 증가하고 있다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-03-30T14:44:09.327283Z"
+  },
+  {
+    "id": "jef_8422439685",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "How Steven Klinsky Built One of Private Equity’s Leading Firms",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/how-steven-klinsky-built-one-of-private-equitys-leading-firms/",
+    "published_date": "2025-12-04",
+    "summary_ko": "스티븐 클린스키는 뉴 마운틴 캐피탈을 600억 달러 규모로 성장시켰으며, 방어적 성장과 비즈니스 구축을 원칙으로 삼았다. 투자자에게 간결하고 확신 있는 피치를 강조했다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T14:44:10.101132Z"
   },
   {
     "id": "bii_40e9965869",
@@ -977,5 +625,27 @@
     "summary_ko": "CFO의 역할은 회계에서 전략적 중심으로 변화하며 OCFO가 투자자들의 주목을 받고 있다. 2024년 하반기 OCFO 투자에 긍정적인 전망을 보이고 있다.",
     "category": "Macro & Rates",
     "collected_at": "2026-03-30T14:29:57.991785Z"
+  },
+  {
+    "id": "jef_e5f539b201",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "What Will Drive India’s Growth for the Next 20 Years?",
+    "url": "https://www.jefferies.com/insights/the-big-picture/what-will-drive-indias-growth-for-the-next-20-years/",
+    "published_date": "2024-09-16",
+    "summary_ko": "인도의 주식시장 규모는 현재 5조 달러로, 2030년에는 10조 달러에 이를 것으로 전망되며, 2028년에는 세계 3위 경제국으로 부상할 예정이다. 20년간 1억 7천5백만명의 노동 연령 인구가 증가할 것으로 보인다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-03-30T14:44:04.008503Z"
+  },
+  {
+    "id": "jef_fe2d65db2c",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Mid-Year Review: A Record-Breaking 1H of 2024 for the Secondary Market",
+    "url": "https://www.jefferies.com/insights/the-big-picture/mid-year-review-a-record-breaking-1h-of-2024-for-the-secondary-market/",
+    "published_date": "2024-08-08",
+    "summary_ko": "2024년 상반기 글로벌 세컨더리 시장 거래량이 680억 달러로 사상 최고치를 기록했다. LP 포트폴리오 가격은 NAV의 88%로 상승세를 이어갈 전망이다.",
+    "category": "Equity Markets",
+    "collected_at": "2026-03-30T14:44:04.548689Z"
   }
 ]
