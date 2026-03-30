@@ -11,35 +11,13 @@
     "collected_at": "2026-03-30T06:51:13.393889Z"
   },
   {
-    "id": "jpm_f8074235dc",
-    "source_id": "jpmorgan",
-    "source_name": "J.P. Morgan",
-    "title": "Learn\n                                                more",
-    "url": "https://www.jpmorgan.com/insights/research/index-research",
-    "published_date": "2026-03-30",
-    "summary_ko": "J.P. Morgan은 기관 투자자에게 맞춤형 고정 수익 인덱스 솔루션을 제공하며, ESG 상품 개발에 주력하고 있습니다. 세계적으로 신뢰받는 금융 서비스를 통해 시장 변화에 대응합니다.",
-    "category": "Equity Markets",
-    "collected_at": "2026-03-30T06:51:14.598229Z"
-  },
-  {
-    "id": "jpm_af75b84635",
-    "source_id": "jpmorgan",
-    "source_name": "J.P. Morgan",
-    "title": "Read\n                                                more",
-    "url": "https://www.jpmorgan.com/insights/research/macrosynergy-quantamental-system",
-    "published_date": "2026-03-30",
-    "summary_ko": "J.P. Morgan은 혁신적인 데이터 및 분석 도구를 통해 기관 투자자에게 신뢰성과 정보 우위를 제공합니다. Macrosynergy Quantamental System은 경제 지표를 포함한 매크로 데이터를 제공하여 투자 결정을 지원합니다.",
-    "category": "Equity Markets",
-    "collected_at": "2026-03-30T06:51:15.304988Z"
-  },
-  {
     "id": "gs_8099fcca43",
     "source_id": "goldman-sachs",
     "source_name": "Goldman Sachs",
     "title": "How Will AI Affect the US Labor Market?",
     "url": "https://www.goldmansachs.com/insights/articles/how-will-ai-affect-the-us-labor-market",
     "published_date": "2026-03-18",
-    "summary_ko": "Goldman Sachs의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "summary_ko": "AI의 발전이 미국 노동 시장에 중대한 영향을 미칠 것으로 예상되며, 향후 10년간 200만 개 일자리가 사라지고 150만 개가 창출될 것으로 전망된다.",
     "category": "AI & Technology",
     "collected_at": "2026-03-30T06:49:09.265343Z"
   },
@@ -50,7 +28,7 @@
     "title": "Why Korea’s Stock Market Is Forecast to Rise to Record Highs",
     "url": "https://www.goldmansachs.com/insights/articles/why-koreas-stock-market-is-forecast-to-rise-to-record-highs",
     "published_date": "2026-03-13",
-    "summary_ko": "Goldman Sachs의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "summary_ko": "한국 증시가 기록적인 상승세를 이어갈 것으로 전망되며, 주가는 주요 지표의 긍정적 변화와 외국인 투자 증가에 힘입어 상승할 가능성이 높다.",
     "category": "Equity Markets",
     "collected_at": "2026-03-30T06:49:09.783643Z"
   },

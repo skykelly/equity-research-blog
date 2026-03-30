@@ -102,11 +102,13 @@ def _scrape_page(page_url: str, existing_ids: set, limit: int) -> list[dict]:
         if heading:
             title = heading.get_text(strip=True)
         else:
-            text = a.get_text(strip=True)
+            text = re.sub(r"\s+", " ", a.get_text()).strip()
             if len(text) > 20:
                 title = text
 
-        if not title or len(title) < 10:
+        # Reject CTA/nav links ("Learn more", "Read more", etc.)
+        _CTA = {"learn more", "read more", "view more", "see more", "learn", "read", "view", "explore"}
+        if not title or len(title) < 15 or title.lower() in _CTA:
             continue
 
         # Extract date from surrounding elements
