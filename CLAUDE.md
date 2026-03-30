@@ -2,12 +2,12 @@
 
 ## 프로젝트 개요
 
-글로벌 IB 3곳(Goldman Sachs, J.P. Morgan, Morgan Stanley)의 공개 Insights 아티클을
-자동 수집하고, Claude API로 한국어 요약하여 카드형 블로그로 배포하는 시스템.
+글로벌 IB/리서치 기관 7곳의 공개 Insights 아티클을
+자동 수집하고, GitHub Models(gpt-4o-mini)로 한국어 요약하여 카드형 블로그로 배포하는 시스템.
 
 - **배포**: GitHub Pages (정적 사이트)
 - **자동화**: GitHub Actions (매일 KST 10시 cron)
-- **요약**: Claude API `claude-opus-4-5` 모델 사용
+- **요약**: GitHub Models `gpt-4o-mini` (GITHUB_TOKEN 자동 인증, 별도 Secret 불필요)
 - **DB**: `data/articles.json` (단일 JSON 파일, 신규 아티클 prepend 방식)
 
 ---
@@ -18,9 +18,9 @@
 전체 디렉토리 구조 및 파일 생성 완료.
 
 ### Phase 2 — 스크래퍼 개발 ✅
-3개 소스 스크래퍼 구현 완료. 각 스크래퍼는 동일한 인터페이스를 가짐:
+7개 소스 스크래퍼 구현 완료. 각 스크래퍼는 동일한 인터페이스를 가짐:
 - `fetch_articles(existing_ids: set, max_articles: int) -> list[dict]`
-- HTML 파싱 방식 (BeautifulSoup4 + lxml)
+- HTML 파싱 방식 (BeautifulSoup4 + lxml) 또는 RSS (feedparser)
 - 중복 방지: URL MD5 해시 기반 ID 생성 후 `existing_ids`와 비교
 
 ### Phase 3 — Claude API 요약 파이프라인 ✅
@@ -129,11 +129,8 @@ python -m http.server 8080
 ## GitHub 배포 설정
 
 ### 필요한 Secret
-| 이름 | 값 |
-|------|----|
-| `ANTHROPIC_API_KEY` | Claude API 키 |
-
-Settings → Secrets and variables → Actions → New repository secret
+별도 Secret 불필요. `GITHUB_TOKEN`이 Actions에서 자동 발급됨.
+(`models: read` 권한은 `daily_update.yml`의 `permissions` 블록에 이미 포함됨)
 
 ### GitHub Pages 설정
 Settings → Pages → Source: **GitHub Actions** 선택
@@ -196,8 +193,8 @@ Actions 탭 → "Daily Research Update & Deploy" → Run workflow → `initial_r
 - [ ] 신규 아티클 강조 표시 ("NEW" 배지, 최근 24시간 이내)
 
 ### P3 — 확장
-- [ ] 소스 추가: BlackRock Investment Institute, BofA Global Research
-- [ ] 카테고리 자동 분류 정확도 개선 (현재 키워드 기반 → Claude 분류로 교체)
+- [ ] 소스 추가: BofA Global Research (현재 차단됨)
+- [ ] 카테고리 자동 분류 정확도 개선 (현재 키워드 기반 → LLM 분류로 교체)
 - [ ] 아티클 통계 대시보드 (소스별 발행 빈도, 카테고리 분포 등)
 
 ---
@@ -206,7 +203,7 @@ Actions 탭 → "Daily Research Update & Deploy" → Run workflow → `initial_r
 
 | 변수 | 용도 | 필수 여부 |
 |------|------|----------|
-| `ANTHROPIC_API_KEY` | Claude API 요약 생성 | 필수 |
+| `GITHUB_TOKEN` | GitHub Models API 요약 (Actions 자동 제공) | 자동 |
 
 ---
 
@@ -215,15 +212,42 @@ Actions 탭 → "Daily Research Update & Deploy" → Run workflow → `initial_r
 ```python
 MAX_PER_SOURCE = 10      # 일반 업데이트 시 소스당 최대 수집 수
 MAX_TOTAL_ARTICLES = 500 # DB 최대 아티클 수 (초과 시 오래된 것 제거)
-# --initial 플래그 시: max_per_source = 7 (소스당 7개 = 총 ~21개)
+# --initial 플래그 시: max_per_source = 7 (소스당 7개 = 총 ~49개)
 ```
+
+---
+
+## 수집 소스 목록 (7개 활성)
+
+| source_id | source_name | scraper 파일 | 방식 | 비고 |
+|---|---|---|---|---|
+| goldman-sachs | Goldman Sachs | gs_scraper.py | HTML | /insights/articles/ 필터 |
+| jpmorgan | J.P. Morgan | jpm_scraper.py | HTML | path 4단계 이상 필터 |
+| morgan-stanley | Morgan Stanley | ms_scraper.py | HTML | aria-label 기반 title |
+| blackrock | BlackRock BII | blackrock_scraper.py | HTML | publications 페이지 |
+| jefferies | Jefferies | jefferies_scraper.py | HTML | 3개 카테고리 페이지 |
+| deloitte | Deloitte Insights | deloitte_scraper.py | HTML | /us/en/insights/ |
+| seeking-alpha | Seeking Alpha | seekingalpha_scraper.py | RSS | market-news.xml |
+
+### 차단된 소스 (403/timeout — 재시도 불필요)
+| source | 이유 |
+|---|---|
+| UBS | 403 차단 |
+| PIMCO | 403 차단 |
+| McKinsey | timeout 차단 |
+| Vanguard | 403 차단 (리다이렉트) |
+| Fidelity | 403 차단 |
 
 ---
 
 ## 참고 URL
 
-| 소스 | Insights URL |
+| 소스 | URL |
 |------|-------------|
 | Goldman Sachs | https://www.goldmansachs.com/insights/ |
 | J.P. Morgan | https://www.jpmorgan.com/insights |
-| Morgan Stanley | https://www.morganstanley.com/ideas |
+| Morgan Stanley | https://www.morganstanley.com/insights |
+| BlackRock BII | https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications |
+| Jefferies | https://www.jefferies.com/insights/ |
+| Deloitte Insights | https://www.deloitte.com/us/en/insights.html |
+| Seeking Alpha | https://seekingalpha.com/market-news.xml (RSS) |

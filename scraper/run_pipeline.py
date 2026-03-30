@@ -15,6 +15,10 @@ sys.path.insert(0, str(Path(__file__).parent))
 from gs_scraper import fetch_articles as fetch_gs
 from jpm_scraper import fetch_articles as fetch_jpm
 from ms_scraper import fetch_articles as fetch_ms
+from blackrock_scraper import fetch_articles as fetch_bii
+from jefferies_scraper import fetch_articles as fetch_jef
+from deloitte_scraper import fetch_articles as fetch_del
+from seekingalpha_scraper import fetch_articles as fetch_sa
 from summarizer import summarize_articles
 
 DATA_FILE = Path(__file__).parent.parent / "data" / "articles.json"
@@ -52,17 +56,23 @@ def run_pipeline(initial_run: bool = False) -> None:
     # Scrape each source
     new_articles = []
 
-    print("\n[Pipeline] Scraping Goldman Sachs...")
-    gs_articles = fetch_gs(existing_ids=existing_ids, max_articles=max_per_source)
-    new_articles.extend(gs_articles)
+    sources = [
+        ("Goldman Sachs",    fetch_gs),
+        ("J.P. Morgan",      fetch_jpm),
+        ("Morgan Stanley",   fetch_ms),
+        ("BlackRock BII",    fetch_bii),
+        ("Jefferies",        fetch_jef),
+        ("Deloitte Insights",fetch_del),
+        ("Seeking Alpha",    fetch_sa),
+    ]
 
-    print("\n[Pipeline] Scraping J.P. Morgan...")
-    jpm_articles = fetch_jpm(existing_ids=existing_ids, max_articles=max_per_source)
-    new_articles.extend(jpm_articles)
-
-    print("\n[Pipeline] Scraping Morgan Stanley...")
-    ms_articles = fetch_ms(existing_ids=existing_ids, max_articles=max_per_source)
-    new_articles.extend(ms_articles)
+    for name, fetcher in sources:
+        print(f"\n[Pipeline] Scraping {name}...")
+        try:
+            articles = fetcher(existing_ids=existing_ids, max_articles=max_per_source)
+            new_articles.extend(articles)
+        except Exception as e:
+            print(f"[Pipeline] ERROR scraping {name}: {e}")
 
     print(f"\n[Pipeline] Total new articles found: {len(new_articles)}")
 
