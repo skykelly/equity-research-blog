@@ -16,6 +16,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  models: read
 
 jobs:
   # ── JOB 1: Scrape & Summarize ──────────────────────────────────
