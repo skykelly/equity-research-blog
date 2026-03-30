@@ -1,0 +1,124 @@
+[
+  {
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "id_prefix": "gs",
+    "type": "html",
+    "index_urls": [
+      "https://www.goldmansachs.com/insights/"
+    ],
+    "base_url": "https://www.goldmansachs.com",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+    },
+    "link_filter": {
+      "must_contain": "/insights/articles/"
+    },
+    "title_strategy": "gs_card",
+    "date_strategy": "gs_card",
+    "min_title_length": 10,
+    "cta_filter": false
+  },
+  {
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "id_prefix": "jpm",
+    "type": "html",
+    "index_urls": [
+      "https://www.jpmorgan.com/insights",
+      "https://www.jpmorgan.com/global/research"
+    ],
+    "base_url": "https://www.jpmorgan.com",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+      "Referer": "https://www.jpmorgan.com/"
+    },
+    "link_filter": {
+      "path_contains_any": ["insights", "research"],
+      "min_path_segments": 4
+    },
+    "title_strategy": "heading",
+    "date_strategy": "surrounding_elements",
+    "min_title_length": 15,
+    "cta_filter": true
+  },
+  {
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "id_prefix": "ms",
+    "type": "html",
+    "index_urls": [
+      "https://www.morganstanley.com/insights",
+      "https://www.morganstanley.com/insights/topics/artificial-intelligence",
+      "https://www.morganstanley.com/insights/topics/interest-rates",
+      "https://www.morganstanley.com/insights/topics/investing"
+    ],
+    "base_url": "https://www.morganstanley.com",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+      "Referer": "https://www.morganstanley.com/"
+    },
+    "link_filter": {
+      "must_contain": "/insights/articles/"
+    },
+    "title_strategy": "aria_label_then_heading",
+    "date_strategy": "surrounding_elements",
+    "min_title_length": 10,
+    "cta_filter": false
+  },
+  {
+    "source_id": "blackrock",
+    "source_name": "BlackRock BII",
+    "id_prefix": "bii",
+    "type": "html",
+    "index_urls": [
+      "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications"
+    ],
+    "base_url": "https://www.blackrock.com",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9"
+    },
+    "link_filter": {
+      "must_contain": "blackrock-investment-institute",
+      "min_path_depth": 6,
+      "skip_suffixes": ["index.page", "index.html", "/publications", "/outlook"]
+    },
+    "title_strategy": "bii_anchor_text",
+    "date_strategy": "bii_anchor_text",
+    "min_title_length": 10,
+    "cta_filter": false
+  },
+  {
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "id_prefix": "jef",
+    "type": "html",
+    "index_urls": [
+      "https://www.jefferies.com/insights/category/the-big-picture/",
+      "https://www.jefferies.com/insights/category/boardroom-intelligence/",
+      "https://www.jefferies.com/insights/category/sustainability-and-culture/"
+    ],
+    "base_url": "https://www.jefferies.com",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Referer": "https://www.jefferies.com/"
+    },
+    "link_filter": {
+      "must_contain": "/insights/",
+      "must_not_contain": "/category/",
+      "min_path_segments": 3
+    },
+    "title_strategy": "heading",
+    "date_strategy": "article_jsonld",
+    "min_title_length": 15,
+    "cta_filter": true
+  }
+]

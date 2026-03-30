@@ -12,14 +12,11 @@ from datetime import datetime
 # Add project root to path
 sys.path.insert(0, str(Path(__file__).parent))
 
-from gs_scraper import fetch_articles as fetch_gs
-from jpm_scraper import fetch_articles as fetch_jpm
-from ms_scraper import fetch_articles as fetch_ms
-from blackrock_scraper import fetch_articles as fetch_bii
-from jefferies_scraper import fetch_articles as fetch_jef
+from core_scraper import UniversalScraper
 from summarizer import summarize_articles
 
 DATA_FILE = Path(__file__).parent.parent / "data" / "articles.json"
+SOURCES_FILE = Path(__file__).parent / "sources.json"
 MAX_PER_SOURCE = 10  # Max new articles to collect per source per run
 MAX_TOTAL_ARTICLES = 500  # Cap DB size to avoid unbounded growth
 
@@ -51,21 +48,19 @@ def run_pipeline(initial_run: bool = False) -> None:
 
     max_per_source = 7 if initial_run else MAX_PER_SOURCE
 
+    # Load source configs
+    with open(SOURCES_FILE, "r", encoding="utf-8") as f:
+        source_configs = json.load(f)
+
     # Scrape each source
     new_articles = []
 
-    sources = [
-        ("Goldman Sachs",    fetch_gs),
-        ("J.P. Morgan",      fetch_jpm),
-        ("Morgan Stanley",   fetch_ms),
-        ("BlackRock BII",    fetch_bii),
-        ("Jefferies",        fetch_jef),
-    ]
-
-    for name, fetcher in sources:
+    for source_config in source_configs:
+        name = source_config["source_name"]
         print(f"\n[Pipeline] Scraping {name}...")
         try:
-            articles = fetcher(existing_ids=existing_ids, max_articles=max_per_source)
+            scraper = UniversalScraper(source_config)
+            articles = scraper.fetch(existing_ids=existing_ids, max_articles=max_per_source)
             new_articles.extend(articles)
         except Exception as e:
             print(f"[Pipeline] ERROR scraping {name}: {e}")
