@@ -1,5 +1,115 @@
 [
   {
+    "id": "jef_aea7a679b4",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Insights from Bloomberg: How AI Is Reshaping the Research Desk",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/insights-from-bloomberg-how-ai-is-reshaping-the-research-desk/",
+    "published_date": "2025-11-26",
+    "summary_ko": "AI가 투자 의사결정을 혁신하고 있으며, 블룸버그는 분석가의 효율성을 높이기 위해 생성 AI를 빠르게 통합하고 있다. 이러한 시스템은 분석가가 정보 검색에 소요되는 시간을 줄여주며, 복잡한 작업을 몇 분 내로 완료할 수 있게 한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T15:03:37.127948Z"
+  },
+  {
+    "id": "jef_ba933aa120",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "A Framework for Tracking the Energy Transition in 2026",
+    "url": "https://www.jefferies.com/insights/sustainability-and-culture/a-framework-for-tracking-the-energy-transition-in-2026/",
+    "published_date": "2026-03-16",
+    "summary_ko": "2025년 에너지 전환 투자액이 전년 대비 8% 증가한 2.3조 달러에 달했으며, 카야 아이덴티티를 통해 전환 진행 상황을 평가할 수 있다. 글로벌 탄소 배출은 연 0.3% 증가로 둔화되었고, 중국과 미국에서 탄소 배출이 각각 안정세와 증가세를 나타냈다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-03-30T15:03:37.362901Z"
+  },
+  {
+    "id": "jef_eaebbb5af0",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Venezuela: Implications for China’s Energy & U.S. Tech Rivalry",
+    "url": "https://www.jefferies.com/insights/sustainability-and-culture/venezuela-implications-for-chinas-energy-u-s-tech-rivalry/",
+    "published_date": "2026-01-20",
+    "summary_ko": "베네수엘라의 상황 변화가 에너지 안보와 국제 경쟁의 중심에 있음을 보여준다. 중국의 베네수엘라 원유 의존도는 약 3%로 한정적이며, 단기적으로 운영 중단 가능성이 있으나 시스템 차원의 리스크는 낮다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T15:03:37.493833Z"
+  },
+  {
+    "id": "jef_624f3389ec",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Insights from Japanese Companies – Allocating to the Energy Transition",
+    "url": "https://www.jefferies.com/insights/sustainability-and-culture/how-japanese-corporates-are-positioning-for-transition-investment/",
+    "published_date": "2025-11-11",
+    "summary_ko": "일본 기업들이 에너지 전환 기회를 수익화하기 위한 전략을 논의했으며, 'GX 계획'은 1조 달러 규모로 10년 내 탄소 배출을 감축할 목표다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-03-30T15:03:38.484118Z"
+  },
+  {
+    "id": "jef_60b0960a09",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Capital Formation, Fundraising, and M&A to Accelerate the Energy Transition",
+    "url": "https://www.jefferies.com/insights/sustainability-and-culture/capital-formation-fundraising-and-ma-to-accelerate-the-energy-transition/",
+    "published_date": "2025-11-11",
+    "summary_ko": "에너지 전환 가속화를 위해 기업들은 자본 형성과 M&A에 집중해야 하며, AI와 하이퍼스케일 데이터 센터 수요가 성장 동력이다. Twelve Inc.는 2030년까지 판매 완료된 상태로, 상업적 규모에서 CO2를 연료로 전환하는 비행을 시작할 예정이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T15:03:39.264254Z"
+  },
+  {
+    "id": "jef_39a040b485",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "How Can Companies Commercialize the Japanese Energy Transition?",
+    "url": "https://www.jefferies.com/insights/sustainability-and-culture/how-can-companies-commercialize-the-japanese-energy-transition/",
+    "published_date": "2025-11-10",
+    "summary_ko": "일본의 에너지 전환을 위한 $1조 규모 GX 계획을 통해 기업은 규제와 투자자 협력을 전략의 일환으로 강화해야 한다. 투자자들은 가치 창출 중심으로 전환 이니셔티브를 지원하며, 혁신이 에너지 비용 절감을 이끄는 핵심 요소다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T15:03:39.937651Z"
+  },
+  {
+    "id": "jef_4c8bf7f195",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Lessons from Portfolio Managers: A Guide for Japanese Corporates to Attract Public Equity Capital",
+    "url": "https://www.jefferies.com/insights/sustainability-and-culture/how-public-equities-investors-evaluate-transition-plans/",
+    "published_date": "2025-11-07",
+    "summary_ko": "일본 기업들이 공공 자본을 유치하기 위해서는 기업 가치 향상과 지속 가능한 모델 구축이 필요하다. 기후 변화에 적합한 비즈니스를 통해 안정적인 성장 기회를 창출해야 한다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-03-30T15:03:40.699228Z"
+  },
+  {
+    "id": "jef_cdf911133e",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Energy Transition Allocation – The View from Asset Allocators",
+    "url": "https://www.jefferies.com/insights/sustainability-and-culture/how-global-asset-owners-are-approaching-the-energy-transition/",
+    "published_date": "2025-11-07",
+    "summary_ko": "일본의 에너지 전환에 대한 $1조 계획이 자산 배분의 중심으로 자리잡고 있으며, ESG 투자 확대가 예상된다. 사모 시장이 주도하고 공공 시장도 중요하다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-03-30T15:03:41.433853Z"
+  },
+  {
+    "id": "jef_f8dba6784f",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Ten Takeaways from Jefferies’ Second Indian Energy Transition Trip",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/ten-takeaways-from-jefferies-second-indian-energy-transition-trip/",
+    "published_date": "2025-10-13",
+    "summary_ko": "인도가 2025년까지 세계 2위 재생에너지 시장으로 성장할 것으로 전망되며, 현재 청정 용량은 약 240GW로 2030년 목표의 절반에 해당한다. 그러나 분배기업의 재정적 도전과 전력망 병목 문제가 존재한다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-03-30T15:03:42.095822Z"
+  },
+  {
+    "id": "jef_94cde1a395",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "The Future of Carbon Removal, According to the People Building It",
+    "url": "https://www.jefferies.com/insights/sustainability-and-culture/the-future-of-carbon-removal-according-to-the-people-building-it/",
+    "published_date": "2025-05-02",
+    "summary_ko": "탄소 제거 산업은 집중 수요, 높은 비용, 정부 지원 변동성 등 세 가지 불확실성에 직면해 있으며, Microsoft가 77%의 시장 점유율을 차지하고 있다. 탄소 제거 크레딧 시장의 성장은 계속될 것으로 예상된다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-03-30T15:03:42.238318Z"
+  },
+  {
     "id": "bii_7a426e9bee",
     "source_id": "blackrock",
     "source_name": "BlackRock BII",
