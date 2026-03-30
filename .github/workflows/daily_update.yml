@@ -1,0 +1,114 @@
+name: Daily Research Update & Deploy
+
+on:
+  schedule:
+    # 매일 오전 10시 KST (UTC 01:00)
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      initial_run:
+        description: 'Initial run (collect ~20 articles)'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  # ── JOB 1: Scrape & Summarize ──────────────────────────────────
+  update-articles:
+    name: Scrape & Summarize Articles
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ "${{ github.event.inputs.initial_run }}" = "true" ]; then
+            echo "Running initial collection (targeting 20 articles)..."
+            python scraper/run_pipeline.py --initial
+          else
+            echo "Running daily update..."
+            python scraper/run_pipeline.py
+          fi
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet data/articles.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit updated articles.json
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --global user.name  'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          ARTICLE_COUNT=$(python -c "import json; data=json.load(open('data/articles.json')); print(len(data))")
+          git add data/articles.json
+          git commit -m "📊 Daily research update $(date +'%Y-%m-%d') — ${ARTICLE_COUNT} articles total"
+          git push
+
+      - name: Summary
+        run: |
+          echo "### 📊 Research Update Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.changes.outputs.changed }}" = "true" ]; then
+            TOTAL=$(python -c "import json; data=json.load(open('data/articles.json')); print(len(data))")
+            echo "✅ articles.json updated — **${TOTAL} total articles**" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "ℹ️ No new articles found today." >> $GITHUB_STEP_SUMMARY
+          fi
+
+  # ── JOB 2: Deploy to GitHub Pages ──────────────────────────────
+  deploy-pages:
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    needs: update-articles
+
+    # Only deploy if on main branch
+    if: github.ref == 'refs/heads/main'
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout (latest, including articles.json commit)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Copy articles.json to docs/data for Pages
+        run: |
+          mkdir -p docs/data
+          cp data/articles.json docs/data/articles.json
+          echo "Copied articles.json → docs/data/"
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
