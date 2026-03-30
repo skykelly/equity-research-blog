@@ -130,7 +130,9 @@ def _scrape_category(page_url: str, existing_ids: set, seen_urls: set, limit: in
                 break
             parent = parent.parent
 
-        body = _fetch_body(full_url)
+        body, page_date = _fetch_article_data(full_url)
+        # Prefer date found in article page JSON-LD over list-page extraction
+        final_date = page_date or date_str or datetime.today().strftime("%Y-%m-%d")
 
         articles.append({
             "id": article_id,
@@ -138,7 +140,7 @@ def _scrape_category(page_url: str, existing_ids: set, seen_urls: set, limit: in
             "source_name": SOURCE_NAME,
             "title": title,
             "url": full_url,
-            "published_date": date_str or datetime.today().strftime("%Y-%m-%d"),
+            "published_date": final_date,
             "body": body,
             "summary_ko": "",
             "category": infer_category(title + " " + body[:300]),
@@ -151,11 +153,29 @@ def _scrape_category(page_url: str, existing_ids: set, seen_urls: set, limit: in
     return articles
 
 
-def _fetch_body(url: str, char_limit: int = 3000) -> str:
+def _fetch_article_data(url: str, char_limit: int = 3000) -> tuple:
+    """Returns (body: str, date: Optional[str])"""
     try:
         resp = requests.get(url, headers=HEADERS, timeout=15)
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "lxml")
+
+        # Extract date from JSON-LD
+        date = None
+        for s in soup.find_all("script", type="application/ld+json"):
+            try:
+                import json as _json
+                d = _json.loads(s.string)
+                for item in d.get("@graph", [d]):
+                    val = item.get("datePublished") or item.get("dateCreated")
+                    if val and re.match(r"\d{4}-\d{2}-\d{2}", val):
+                        date = val[:10]
+                        break
+                if date:
+                    break
+            except Exception:
+                pass
+
         for tag in soup(["nav", "footer", "script", "style", "header", "aside"]):
             tag.decompose()
         for selector in ["article", "main", '[class*="content"]', '[class*="article"]', ".entry-content", ".post-content"]:
@@ -163,11 +183,12 @@ def _fetch_body(url: str, char_limit: int = 3000) -> str:
             if el:
                 text = el.get_text(separator=" ", strip=True)
                 if len(text) > 200:
-                    return text[:char_limit]
+                    return text[:char_limit], date
         paragraphs = soup.find_all("p")
-        return " ".join(p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 50)[:char_limit]
+        body = " ".join(p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 50)[:char_limit]
+        return body, date
     except Exception:
-        return ""
+        return "", None
 
 
 def infer_category(text: str) -> str:
