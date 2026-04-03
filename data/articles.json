@@ -1,5 +1,27 @@
 [
   {
+    "id": "gs_20ab392103",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "The Outlook for Private Credit amid Rising Market Stress",
+    "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-private-credit-amid-rising-market-stress",
+    "published_date": "2026-03-26",
+    "summary_ko": "Goldman Sachs는 사모 신용 시장이 기본적으로 강하지만, 일부 소매 투자자의 이탈로 인해 높은 수익률을 제공할 수 있다고 언급했다. 여전히 디폴트율은 낮으며, 차입자의 수익 성장률은 두 자릿수에 달한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-03T03:41:39.601296Z"
+  },
+  {
+    "id": "jpm_fb1e6789eb",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "When disaster strikes: How to give with intention and impact",
+    "url": "https://www.jpmorgan.com/insights/family-legacy/philanthropy/when-disaster-strikes-how-to-give-with-intention-and-impact",
+    "published_date": "2026-04-03",
+    "summary_ko": "이 기사는 재해 발생 시 의도적이고 영향력 있는 기부 방법을 제시하며, 조정된 투자 접근과 가족 자산 관리를 강조한다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-04-03T03:41:40.110624Z"
+  },
+  {
     "id": "jpm_3886b6bf00",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
