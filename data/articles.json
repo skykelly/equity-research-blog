@@ -1,5 +1,27 @@
 [
   {
+    "id": "jpm_acbfd763b0",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Private credit: Performance vs. liquidity",
+    "url": "https://www.jpmorgan.com/insights/podcast-hub/market-matters/private-credit-performance-liquidity",
+    "published_date": "2026-04-08",
+    "summary_ko": "J.P. Morgan은 사모 대출의 성과와 유동성 간의 균형을 강조하며, 향후 12개월 동안 수익률이 8%에 이를 것으로 전망한다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-04-08T03:47:54.342107Z"
+  },
+  {
+    "id": "jef_83271cdd85",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Growth at a Discount: Opportunities Abound in the APAC Secondaries Market",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/growth-at-a-discount-opportunities-abound-in-the-apac-secondaries-market/",
+    "published_date": "2026-04-07",
+    "summary_ko": "APAC의 2차 시장은 전체 $2400억 규모의 10% 미만을 차지하지만, 투자자들의 수요가 증가하고 있다. GPs와 LPs는 유동성 확보를 위해 2020-2022년 자산을 50% 이상 할인된 가격에 인수할 기회를 갖는다.",
+    "category": "Equity Markets",
+    "collected_at": "2026-04-08T03:47:56.954875Z"
+  },
+  {
     "id": "jpm_51afebb6d2",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
