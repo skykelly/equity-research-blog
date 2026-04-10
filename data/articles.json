@@ -1,5 +1,49 @@
 [
   {
+    "id": "jpm_9e1d447c70",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Energy outlook 2026: Mitigating volatility with a diverse energy mix",
+    "url": "https://www.jpmorgan.com/insights/global-research/outlook/energy-outlook",
+    "published_date": "2026-04-10",
+    "summary_ko": "2026년 에너지 전망에 따르면 다양한 에너지 믹스를 통한 변동성 완화가 핵심이며, 이는 안정적인 투자 기회를 제공할 것이다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-04-10T03:56:48.730788Z"
+  },
+  {
+    "id": "ms_5ebba878db",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Iran Conflict: Three Scenarios for Markets",
+    "url": "https://www.morganstanley.com/insights/articles/iran-conflict-three-market-scenarios-investors-consider",
+    "published_date": "2026-04-10",
+    "summary_ko": "이란 갈등이 지속됨에 따라, 2026년 유가가 배럴당 80~90달러에 이를 것으로 전망된다. 공급 차질이 생산에까지 영향을 미치고 있어 성장 전망 하향 조정과 인플레이션 압력이 커지고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-10T03:56:49.256918Z"
+  },
+  {
+    "id": "ms_8c917052ad",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "A Turning Point for Real Estate: Recovery Takes Shape",
+    "url": "https://www.morganstanley.com/insights/articles/real-estate-market-outlook-2026-recovery",
+    "published_date": "2026-04-10",
+    "summary_ko": "글로벌 부동산 시장이 2026년부터 회복세를 보일 것으로 예상되며, 이는 미국, 일본, 유럽에서 기회로 이어질 전망이다. 낮은 자본 비용과 제한된 공급이 회복에 유리한 조건을 만들어내고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-10T03:56:49.344404Z"
+  },
+  {
+    "id": "ms_2aa0d6a1d4",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "A Bull Case for Latin America",
+    "url": "https://www.morganstanley.com/insights/articles/latin-america-ecnomic-bullish-outlook-2026",
+    "published_date": "2026-04-10",
+    "summary_ko": "라틴 아메리카 주식은 20년 만에 최저 수준에서 거래 중이며, 정책 변화, 금리 하락, 공급망 재편이 기회로 작용할 수 있다. 모건 스탠리는 2030년까지 MSCI 라틴 아메리카 지수가 90% 상승하며, 자본 시장 규모가 2.4조 달러에서 6.3조 달러로 증가할 것으로 전망한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-10T03:56:49.518680Z"
+  },
+  {
     "id": "jpm_acbfd763b0",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
