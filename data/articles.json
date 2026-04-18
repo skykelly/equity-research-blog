@@ -1,5 +1,49 @@
 [
   {
+    "id": "jpm_c7cf05422f",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "What’s the Fed’s next move?",
+    "url": "https://www.jpmorgan.com/insights/global-research/economy/fed-rate-cuts",
+    "published_date": "2026-04-18",
+    "summary_ko": "연준의 다음 조치는 금리 인상 지속으로, 2023년 말까지 5.25%~5.50% 전망이다. 인플레이션 압력에 대응하기 위한 결정이다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-04-18T03:44:36.048471Z"
+  },
+  {
+    "id": "ms_940d76bba4",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Iran Conflict Unsettles Market Norms",
+    "url": "https://www.morganstanley.com/insights/articles/iran-ceasefire-gold-dollar-treasuries",
+    "published_date": "2026-04-18",
+    "summary_ko": "이란 휴전 소식에 주가가 반등했지만, 전쟁으로 인해 시장은 미시적 요인에서 거시적 요인으로 급격히 전환됐다. 에너지 충격이 주요 이슈로 부각되며, 투자자들은 기업 개별 거래 대신 거시적 시장 동향에 집중하고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-18T03:44:37.153962Z"
+  },
+  {
+    "id": "ms_ac8d084f4b",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "AI and Jobs: Limited Disruption So Far",
+    "url": "https://www.morganstanley.com/insights/articles/ai-jobs-modest-impact-historical-precedence",
+    "published_date": "2026-04-18",
+    "summary_ko": "AI의 발전은 생산성 향상을 기대하지만, 노동 시장에 미치는 영향은 제한적이다. 특히 22-27세 청년층의 실업률이 상승했으나, 전반적인 고용은 여전히 강세를 보이고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-18T03:44:37.261638Z"
+  },
+  {
+    "id": "ms_68ac31e54f",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Rebuilding Europe’s Financial Competitiveness in the Age of AI",
+    "url": "https://www.morganstanley.com/insights/articles/europe-financial-competitiveness-ai-private-credit",
+    "published_date": "2026-04-18",
+    "summary_ko": "유럽 금융 서비스는 운영 환경 변화의 조짐을 보이고 있으며, 경쟁력 확보를 위한 규모와 자본 동원이 중요해지고 있다. 시장의 변동성 속에서 통합 및 규제 완화가 필수적이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-18T03:44:37.340019Z"
+  },
+  {
     "id": "gs_05304a1bc7",
     "source_id": "goldman-sachs",
     "source_name": "Goldman Sachs",
