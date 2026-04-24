@@ -1,5 +1,27 @@
 [
   {
+    "id": "jpm_e6dba6279f",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Payments Outlook: Five shifts powering payments",
+    "url": "https://www.jpmorgan.com/insights/payments/trends-innovation/payments-outlook-trends-2026",
+    "published_date": "2026-04-24",
+    "summary_ko": "결제 시장의 5가지 변화가 주요 동력을 제공하며, 특히 디지털화와 블록체인 기술이 중요해지고 있다. 지속적인 성장을 위해서는 혁신과 리더십이 필요하다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-04-24T04:14:36.195026Z"
+  },
+  {
+    "id": "ms_bb8b302cc4",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Mega Themes Converge to Outperform Markets",
+    "url": "https://www.morganstanley.com/insights/articles/thematic-investing-megatrends-reshaping-global-markets-2026",
+    "published_date": "2026-04-24",
+    "summary_ko": "모건 스탠리는 AI, 에너지, 다극 세계 및 사회 변화 등 4대 핵심 주제가 2026년까지 S&P 500을 12% 초과하는 성과를 낼 것으로 전망합니다. AI 채택이 250% 증가하며 기술 수요가 공급을 초과하는 상황이 발생하고, 방산 주식의 상승 가능성이 커졌습니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-24T04:14:37.218146Z"
+  },
+  {
     "id": "jpm_b5640ba9fd",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
