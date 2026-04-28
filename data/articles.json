@@ -1,5 +1,27 @@
 [
   {
+    "id": "jpm_5164ed3760",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Explaining the disconnect between geopolitics and markets",
+    "url": "https://www.jpmorgan.com/insights/podcast-hub/making-sense/geopolitics-imf-world-bank",
+    "published_date": "2026-04-28",
+    "summary_ko": "지정학적 불안정성에도 불구하고, 글로벌 시장은 회복세를 보이고 있으며, 이는 투자자들에게 긍정적인 기회를 제공하고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-28T04:30:22.455272Z"
+  },
+  {
+    "id": "jef_c7b2474dd3",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Pete Bowden on Why the Middle East Crisis Is a Turning Point for Global Energy Markets",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/pete-bowden-on-why-the-middle-east-crisis-is-a-turning-point-for-global-energy-markets/",
+    "published_date": "2026-04-27",
+    "summary_ko": "호르무즈 해협 폐쇄로 인해 에너지 시장이 큰 타격을 입었다. 현재 원유 가격은 $95-$105이며 긴장이 고조될 경우 $120에 이를 수 있다. 생산 지연이 장기화될 것으로 예상된다. M&A 시장은 WTI 기준 $75-$80에 활발하다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-28T04:30:25.188415Z"
+  },
+  {
     "id": "jpm_58733ca24c",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
