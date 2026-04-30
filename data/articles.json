@@ -1,5 +1,38 @@
 [
   {
+    "id": "gs_78bafe1c6c",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "M&A Volume Expected to Surge This Year Despite Economic Uncertainty",
+    "url": "https://www.goldmansachs.com/insights/articles/ma-volume-expected-to-surge-this-year-despite-economic-uncertainty",
+    "published_date": "2026-04-24",
+    "summary_ko": "2025년 M&A 거래가 3.8조 달러까지 증가할 것으로 예상된다. 기업의 장기 가치 증대와 사모펀드의 매각 필요가 주요 요인이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-30T04:28:42.751915Z"
+  },
+  {
+    "id": "gs_5317a5163c",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "When AI Learns How the World Works",
+    "url": "https://www.goldmansachs.com/insights/articles/when-ai-learns-how-the-world-works",
+    "published_date": "2026-04-23",
+    "summary_ko": "AI가 현실을 시뮬레이션하고 결과를 추론하는 '세계 모델' 개발이 중요해지고 있다. 이는 고급 지능의 핵심으로, LLM의 한계를 넘어 금융 및 복잡한 작업에서 보다 효과적인 의사결정을 가능하게 한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-04-30T04:28:42.827053Z"
+  },
+  {
+    "id": "jpm_bc52388b81",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Unum streamlines and protects important healthcare insurance payments with J.P. Morgan",
+    "url": "https://www.jpmorgan.com/insights/payments/embedded-finance-baas/unum-healthcare-payments-concourse",
+    "published_date": "2026-04-30",
+    "summary_ko": "J.P. 모건은 Unum의 의료 보험 지불을 간소화하고 보호하는 솔루션을 제공하여 기업의 재무 관리와 위험 관리에서 효율성을 높이고 있다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-04-30T04:28:43.922513Z"
+  },
+  {
     "id": "jpm_ceb2b8e3f0",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
