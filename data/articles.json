@@ -1,5 +1,38 @@
 [
   {
+    "id": "jpm_d945f53814",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "ETFs and mutual funds: What dual share classes could mean for investors",
+    "url": "https://www.jpmorgan.com/insights/podcast-hub/making-sense/etf-mutual-funds-with-dimensional",
+    "published_date": "2026-05-05",
+    "summary_ko": "ETF와 뮤추얼펀드의 이중 주식 클래스 도입은 투자자에게 유동성 및 리스크 관리 기회를 제공할 것으로 예상된다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-05T04:13:12.918935Z"
+  },
+  {
+    "id": "jef_342c2e059e",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "The Little-Known Financing Tool Gaining Momentum Across the Energy Sector",
+    "url": "https://www.jefferies.com/insights/the-big-picture/the-little-known-financing-tool-gaining-momentum-across-the-energy-sector/",
+    "published_date": "2026-05-04",
+    "summary_ko": "PDP 증권화가 석유 및 가스 M&A에서 증가하고 있으며, 투자 등급 자산으로 간주되어 2.5%의 보수적인 자본 비용을 유도하고 있습니다. 이를 통해 70% LTV의 경쟁 우위를 확보할 수 있습니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-05T04:13:14.820158Z"
+  },
+  {
+    "id": "jef_3d45480d39",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Five Trends Shaping the Future of Power and Utilities",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/five-trends-shaping-the-future-of-power-and-utilities/",
+    "published_date": "2026-05-04",
+    "summary_ko": "미국 전력 수요가 연평균 2~2.5% 증가하며 400~500GW의 새로운 용량이 필요하다. 가스 발전이 신뢰할만한 해결책으로, 신규 건설 비용은 킬로와트당 2,500~3,000달러다. IPP 통합 플랫폼이 등장하며, 재생에너지 산업의 통합이 필요하다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-05-05T04:13:15.013132Z"
+  },
+  {
     "id": "jpm_5533f6e76b",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
