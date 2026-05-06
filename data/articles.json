@@ -1,5 +1,27 @@
 [
   {
+    "id": "jpm_5cbdd97764",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "The interplay between liquidity and collateral",
+    "url": "https://www.jpmorgan.com/insights/podcast-hub/making-sense/liquidity-and-collateral-management",
+    "published_date": "2026-05-06",
+    "summary_ko": "유동성과 담보 간 상호작용이 강조되며, 유동성 관리 전략이 필요하다. 특히, 고정 수익 전략이 시장 변동성을 고려할 때 중요해진다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-06T04:30:29.823466Z"
+  },
+  {
+    "id": "bii_dfe8275ea8",
+    "source_id": "blackrock",
+    "source_name": "BlackRock BII",
+    "title": "Global insights",
+    "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/global-insights/Middle-East-Nov-2025",
+    "published_date": "2025-11-14",
+    "summary_ko": "제목과 본문이 없어 핵심 내용을 요약할 수 없습니다. 제공된 정보를 바탕으로 요약할 수 있는 부분이 없으니 추가 정보를 주시면 도와드리겠습니다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-06T04:30:31.678172Z"
+  },
+  {
     "id": "jpm_d945f53814",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
