@@ -1,5 +1,71 @@
 [
   {
+    "id": "jpm_fdcdb54c14",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "How The Market’s Inflation Fears are Running Ahead of Reality",
+    "url": "https://www.jpmorgan.com/insights/markets-and-economy/top-market-takeaways/tmt-the-markets-inflation-fears-are-running-ahead-of-reality",
+    "published_date": "2026-05-09",
+    "summary_ko": "현재 시장의 인플레이션 우려가 실제 상황보다 과도하게 반영되고 있으며, 투자자들은 신중해야 한다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-09T04:19:12.485163Z"
+  },
+  {
+    "id": "jpm_a7b940d7f6",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Food, flights and more: The ripple effects of the Iran conflict",
+    "url": "https://www.jpmorgan.com/insights/global-research/current-events/iran-conflict-ripple-effects",
+    "published_date": "2026-04-07",
+    "summary_ko": "이란 갈등은 식료품 및 항공 요금 상승 등의 파급 효과를 가져오며, 글로벌 인플레이션을 지속적으로 자극할 것으로 예상된다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-09T04:19:16.454296Z"
+  },
+  {
+    "id": "ms_5444e71e57",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Founder Survey Reveals Insights on Growth, Capital and the Path to Liquidity",
+    "url": "https://www.morganstanley.com/insights/articles/founder-trends-survey-fundraising-liquidity-ipo",
+    "published_date": "2026-03-24",
+    "summary_ko": "사모 회사 창립자들은 AI 전략과 자금 조달의 다양성을 중시하며, IPO 외에도 인수 및 유동성 거래를 활용하고 있다. 67%가 C 단계 이상의 참여자로, 자본 접근성은 AI 우수성에 따라 달라지고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-09T04:19:16.772185Z"
+  },
+  {
+    "id": "ms_de83c3441c",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Is Gold Still a Safe Haven?",
+    "url": "https://www.morganstanley.com/insights/articles/gold-prices-safe-haven-status-reality-check-iran-conflict",
+    "published_date": "2026-05-09",
+    "summary_ko": "골드는 이란 갈등으로 2023년 3월 14.5% 하락하며 전통적인 안전 자산 역할에 의문이 제기되고 있다. 그러나 하반기에는 중앙은행과 ETF의 매입 재개로 금 가격이 온스당 5,200달러에 이를 것으로 전망된다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-09T04:19:16.848780Z"
+  },
+  {
+    "id": "ms_a317bf5b1b",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Luxury Outlook: From Contraction to Caution",
+    "url": "https://www.morganstanley.com/insights/articles/luxury-goods-market-outlook-2026-contraction-to-caution",
+    "published_date": "2026-05-09",
+    "summary_ko": "글로벌 럭셔리 시장이 2년 간의 축소 후 안정세를 보이고 있으나, 전반적인 회복은 어렵고 구조적, 거시 경제적 도전으로 인해 신중한 전망이 필요하다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-09T04:19:16.927448Z"
+  },
+  {
+    "id": "ms_4d22134a84",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Obesity Drugs Are Scaling Fast",
+    "url": "https://www.morganstanley.com/insights/articles/glp1-weight-loss-market-may-double-190-billion-2035",
+    "published_date": "2026-05-09",
+    "summary_ko": "모간스탠리는 비만 및 제2형 당뇨약 시장이 2035년까지 1,900억 달러에 이를 것으로 전망하며, 이는 기존 추정보다 400억 달러 증가한 수치입니다. GLP-1 치료제의 채택률이 미국에서 30%, 전 세계에서 10%에 이를 것으로 보이며, 최악의 상황에서도 시장 규모가 1,700억 달러에 달할 수 있습니다.",
+    "category": "Equity Markets",
+    "collected_at": "2026-05-09T04:19:17.036249Z"
+  },
+  {
     "id": "gs_28e8340a92",
     "source_id": "goldman-sachs",
     "source_name": "Goldman Sachs",
