@@ -1,5 +1,38 @@
 [
   {
+    "id": "gs_4dfc044c82",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "Tracking Trillions: The Assumptions Shaping the Scale of the AI Build-Out",
+    "url": "https://www.goldmansachs.com/insights/articles/tracking-trillions-the-assumptions-shaping-scale-of-the-ai-build-out",
+    "published_date": "2026-05-01",
+    "summary_ko": "AI 인프라 구축을 위한 자본 투자 규모는 4조~8조 달러로 추정되며, 이를 결정짓는 주요 가정들이 중요하다. 수요 측면뿐 아니라 공급 측면의 불확실성도 고려해야 한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-14T04:37:49.296467Z"
+  },
+  {
+    "id": "gs_592c4ec962",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "The Energy Crunch Could Accelerate Europe’s Shift to Electrification",
+    "url": "https://www.goldmansachs.com/insights/articles/the-energy-crunch-could-accelerate-europes-shift-to-electrification",
+    "published_date": "2026-05-05",
+    "summary_ko": "유럽의 전력 수요는 2026-2027년에 연평균 1.5-2% 증가할 것으로 예상되며, 2030년부터는 5% 성장 가능성이 큽니다. 전력 시장의 전환을 가속화하는 원인은 에너지 안보 강화를 위한 전력 генера이션 투자 증가입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-14T04:37:49.374307Z"
+  },
+  {
+    "id": "jpm_0c120a0ea1",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "How to strategically manage business debt",
+    "url": "https://www.jpmorgan.com/insights/banking/commercial-banking/business-debt-management-strategies-and-tips",
+    "published_date": "2026-05-14",
+    "summary_ko": "기업 부채 관리에서 전략적 접근이 중요하며, 적절한 유동성 확보와 리스크 관리가 필수적이다. M&A와 자본 조달 등의 금융 솔루션을 통해 장기 목표 달성을 지원한다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-14T04:37:50.408648Z"
+  },
+  {
     "id": "jpm_bc2fb4c70b",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
