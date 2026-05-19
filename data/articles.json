@@ -1,5 +1,38 @@
 [
   {
+    "id": "jpm_fc4ad2ed30",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Orange County multifamily market update",
+    "url": "https://www.jpmorgan.com/insights/real-estate/commercial-term-lending/orange-county-multifamily-market-outlook",
+    "published_date": "2026-05-19",
+    "summary_ko": "오렌지 카운티 다가구 주택 시장은 공급 부족과 안정적인 수요로 인해 임대료가 계속 상승할 전망이다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-19T04:54:22.353536Z"
+  },
+  {
+    "id": "jpm_0688d0f19a",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "New York multifamily market update",
+    "url": "https://www.jpmorgan.com/insights/real-estate/commercial-term-lending/new-york-multifamily-market-outlook",
+    "published_date": "2026-05-19",
+    "summary_ko": "뉴욕 다가구 시장은 공급 부족과 임대료 상승이 지속되고 있으며, 2024년까지 연간 3%의 임대료 상승이 예상된다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-19T04:54:22.537335Z"
+  },
+  {
+    "id": "jef_754e682699",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Conrad Gibbins: Upstream M&A Market Is Stronger Than the Headlines Suggest",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/conrad-gibbons-upstream-ma-market-is-stronger-than-the-headlines-suggest/",
+    "published_date": "2026-05-18",
+    "summary_ko": "업스트림 M&A 시장은 변동성에도 불구하고 강세를 보이고 있으며, 2026년 하반기로 갈수록 거래가 더 빨라질 전망이다. 현재 월 평균 유가는 100달러, 5년 평균은 69달러로 평가된다. 지리적 긴장은 지속되지만, 미주 생산이 유리해질 것으로 보인다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-05-19T04:54:24.172642Z"
+  },
+  {
     "id": "jpm_5684818429",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
