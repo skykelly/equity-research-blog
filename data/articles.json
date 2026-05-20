@@ -1,5 +1,71 @@
 [
   {
+    "id": "jpm_ca08a10dbf",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Irish Domiciled ETFs: Inside the Drivers of Growth",
+    "url": "https://www.jpmorgan.com/insights/securities-services/custody/ireland-eyes-continued-active-etf-dominance",
+    "published_date": "2026-05-20",
+    "summary_ko": "아일랜드 기반 ETF는 고객 수요 증가로 성장 중이며, 2024년까지 자산 규모가 1조 유로에 이를 전망이다. 이는 유럽 ETF 시장의 중요한 동력으로 작용할 것이다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-20T04:58:28.193990Z"
+  },
+  {
+    "id": "jpm_8a73224f4a",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "San Francisco multifamily market update",
+    "url": "https://www.jpmorgan.com/insights/real-estate/commercial-term-lending/san-francisco-multifamily-market-outlook",
+    "published_date": "2026-05-20",
+    "summary_ko": "샌프란시스코 다가구 시장은 2023년 중반 임대료 상승세를 보이며, 4%의 연간 성장률을 기록할 전망이다. 주거 수요 증가가 시장 회복의 주요 요인으로 분석된다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-20T04:58:28.425634Z"
+  },
+  {
+    "id": "ms_f6522ac776",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Your Watch Wants You to Go to the Gym",
+    "url": "https://www.morganstanley.com/insights/articles/health-wellness-outlook-healthcare-retail-2026",
+    "published_date": "2026-05-20",
+    "summary_ko": "미국에서 예방 가능한 질병 관련 비용은 연간 약 1.4조 달러로, 2050년에는 4.6조 달러로 증가할 전망이다. 예방 진단의 확산이 8000억 달러 절감 가능성을 열어준다. 건강 관리 관련 기업들이 유망할 것으로 보인다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-20T04:58:29.222880Z"
+  },
+  {
+    "id": "ms_459f3b54d1",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Investing in the Resilience Boom",
+    "url": "https://www.morganstanley.com/insights/articles/investing-in-the-resilience-boom",
+    "published_date": "2026-05-20",
+    "summary_ko": "Morgan Stanley의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-20T04:58:29.320893Z"
+  },
+  {
+    "id": "ms_64b18243cb",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "The $22 Billion Profit Opportunity in AI + Gaming",
+    "url": "https://www.morganstanley.com/insights/articles/ai-gaming-22-billion-industry-earning-potential-2026",
+    "published_date": "2026-05-20",
+    "summary_ko": "AI 기술의 도입으로 비디오 게임 기업에 220억 달러의 수익 기회가 창출될 것으로 Morgan Stanley가 전망합니다. 이는 제작 비용 절감과 개발 기간 단축을 통해 가능해집니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-20T04:58:29.396202Z"
+  },
+  {
+    "id": "jef_190dbe5ff2",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "2026 IPO Market Outlook: Insights from Jefferies Private Growth Conference",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/2026-ipo-market-outlook-insights-from-jefferies-private-growth-conference/",
+    "published_date": "2026-05-19",
+    "summary_ko": "2026년 IPO 시장은 진정한 전환점을迎하고 있으며, 최근 Cerebras Systems의 55억 달러 IPO가 투자자의 관심을 확인했다. 후반기에는 조심스러운 낙관론이 나타나고 있다.",
+    "category": "Equity Markets",
+    "collected_at": "2026-05-20T04:58:31.174090Z"
+  },
+  {
     "id": "jpm_fc4ad2ed30",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
