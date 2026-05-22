@@ -1,5 +1,82 @@
 [
   {
+    "id": "gs_9ce2da0113",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "China’s Exports Are Expected to Slow Before Green Energy Surge",
+    "url": "https://www.goldmansachs.com/insights/articles/chinas-exports-are-expected-to-slow-before-green-energy-surge",
+    "published_date": "2026-05-13",
+    "summary_ko": "중동 석유 공급 차질로 중국 수출은 단기적으로 둔화될 전망이나, 중장기적으로는 지속 가능한 에너지 기술에 대한 수요 증가로 회복 가능성이 있다. 2024년 중국은 글로벌 태양광 모듈 86%, 리튬이온 배터리 80%를 차지할 것으로 예상된다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-22T04:56:06.188533Z"
+  },
+  {
+    "id": "gs_eb48c09285",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "Will the Corporate Investment in AI Pay Off?",
+    "url": "https://www.goldmansachs.com/insights/articles/will-the-corporate-investment-in-ai-pay-off",
+    "published_date": "2026-05-11",
+    "summary_ko": "기업들이 AI 투자에서 가치를 창출하지 못하면 전체 공급망이 불황에 빠질 수 있다. 골드만삭스는 하이퍼스케일러가 향후 반도체 업체를 초과 성과 낼 것으로 전망한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-22T04:56:06.270080Z"
+  },
+  {
+    "id": "jpm_99fe8ab727",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Investing in rural healthcare with NMTC equity",
+    "url": "https://www.jpmorgan.com/insights/real-estate/community-development-banking/investing-in-rural-healthcare-with-nmtc-equity",
+    "published_date": "2026-05-22",
+    "summary_ko": "농촌 의료 분야에 대한 NMTC 자본 투자로 안정적인 수익을 기대할 수 있으며, 특히 2026년까지 지속 가능한 성장 가능성이 높습니다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-22T04:56:07.170937Z"
+  },
+  {
+    "id": "jpm_4051b30891",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Climate Intuition: Food security under pressure: Iran conflict disruptions and a brewing El Niño",
+    "url": "https://www.jpmorgan.com/insights/sustainability/climate/food-security-under-pressure",
+    "published_date": "2026-05-22",
+    "summary_ko": "이란 갈등과 엘니뇨로 식량 안보가 압박받고 있으며, 이는 글로벌 농산물 공급망에 부정적 영향을 미칠 것으로 전망된다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-05-22T04:56:07.547657Z"
+  },
+  {
+    "id": "jef_069be0b042",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Omer Ismail on Building America’s Financial Super App",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/omer-ismail-on-building-americas-financial-super-app/",
+    "published_date": "2026-05-21",
+    "summary_ko": "OnePay는 월마트와 협력해 600만 명의 활성 고객을 확보하고, 금융 슈퍼 앱 모델을 미국에 도입하고 있습니다. 고객 맞춤형 서비스를 통해 비용 효율적인 고객 유치 전략을 강화하고, AI를 활용해 서비스 성과를 혁신적으로 개선할 계획입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-22T04:56:09.558978Z"
+  },
+  {
+    "id": "jef_4354a3b04e",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Why Context Is the Only Thing That Matters in AI",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/why-context-is-the-only-thing-that-matters-in-ai/",
+    "published_date": "2026-05-21",
+    "summary_ko": "ClickUp은 20개 이상의 도구를 통합한 AI 기반 플랫폼으로, 기업의 모든 소프트웨어를 하나로 통합할 수 있음을 강조합니다. AI는 회사별 맥락이 중요하며, 이를 통해 더 높은 생산성과 효율성을 실현할 수 있습니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-22T04:56:09.688927Z"
+  },
+  {
+    "id": "jef_2f6efbcdd3",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Anish Acharya on the Consumer Tech Renaissance and a YouTube Moment for Software",
+    "url": "https://www.jefferies.com/insights/boardroom-intelligence/anish-acharya-on-the-consumer-tech-renaissance-and-a-youtube-moment-for-software/",
+    "published_date": "2026-05-21",
+    "summary_ko": "소비자 기술이 부활하며 AI 기반 제품의 가격이 상승 중이다. Acharya는 소비자 맞춤형 모델과 창작 경제가 소프트웨어 코드에 의해 구축될 것이라 전망한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-22T04:56:09.828601Z"
+  },
+  {
     "id": "jef_6ec297103b",
     "source_id": "jefferies",
     "source_name": "Jefferies",
