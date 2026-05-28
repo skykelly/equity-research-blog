@@ -1,5 +1,49 @@
 [
   {
+    "id": "gs_7ae9a9a8f0",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "How Hedge Funds Are Trading Semiconductor Stocks",
+    "url": "https://www.goldmansachs.com/insights/articles/how-hedge-funds-are-trading-semiconductor-stocks",
+    "published_date": "2026-05-22",
+    "summary_ko": "반도체 주식의 강세 속에서 헤지펀드들이 일부 이익 실현에 나섰지만, 여전히 고수익률 분위기를 유지하고 있다. 최근 한 달간 반도체 관련 주식은 미국에서 가장 많은 순매도 기록을 하며 헤지펀드의 포트폴리오가 재조정되고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-28T05:04:32.440328Z"
+  },
+  {
+    "id": "gs_60452104e0",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "US Data Center Power Demand Projected to Double by 2027",
+    "url": "https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027",
+    "published_date": "2026-05-20",
+    "summary_ko": "2027년까지 미국 데이터 센터 전력 수요가 66GW로 두 배 증가할 것으로 예상된다. 건설 지연을 감안할 때, 실제 활성화율은 50%에 불과할 것으로 보인다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-28T05:04:34.172766Z"
+  },
+  {
+    "id": "jpm_206f716b8a",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "San Diego multifamily market update",
+    "url": "https://www.jpmorgan.com/insights/real-estate/commercial-term-lending/san-diego-multifamily-market-outlook",
+    "published_date": "2026-05-28",
+    "summary_ko": "산타 모니카 다가구 시장은 지속적인 수요와 낮은 공실률을 보이며, 연간 4% 이상의 임대료 상승률을 기록할 것으로 예상된다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-28T05:04:35.278474Z"
+  },
+  {
+    "id": "jpm_554ca22791",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "How your operating account structure can improve liquidity",
+    "url": "https://www.jpmorgan.com/insights/banking/commercial-banking/operating-accounts-best-practices-for-managing-liquidity",
+    "published_date": "2026-05-28",
+    "summary_ko": "운영 계좌 구조를 최적화하면 유동성을 개선할 수 있으며, 이를 통해 자금 흐름 관리와 성장 기회를 극대화할 수 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-28T05:04:35.993204Z"
+  },
+  {
     "id": "jpm_9b09026f7f",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
