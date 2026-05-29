@@ -1,5 +1,38 @@
 [
   {
+    "id": "jpm_1521774dcd",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Financial sponsors reshape packaging sector with scaled platforms and complex financing",
+    "url": "https://www.jpmorgan.com/insights/banking/investment-banking/financial-sponsors-trends-packaging",
+    "published_date": "2026-05-29",
+    "summary_ko": "금융 스폰서들이 패키징 섹터에서 성장을 위해 규모 있는 플랫폼과 복잡한 금융 솔루션을 재편하고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-05-29T05:08:01.741471Z"
+  },
+  {
+    "id": "ms_d7cabb9ebf",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "The Rally Is Back, But Risks Are Rising",
+    "url": "https://www.morganstanley.com/insights/articles/equity-rebound-2026-sp-500-highs-risks-drivers",
+    "published_date": "2026-05-22",
+    "summary_ko": "미국 주식시장이 2분기에 8% 상승하며 새로운 고점을 기록했지만, 모건 스탠리는 시장의 여세와 발생할 수 있는 위험 요소를 주의해야 한다고 경고한다.",
+    "category": "Equity Markets",
+    "collected_at": "2026-05-29T05:08:02.307528Z"
+  },
+  {
+    "id": "ms_27481a3912",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "A Larger, Broader IPO Market Takes Shape",
+    "url": "https://www.morganstanley.com/insights/articles/ipo-market-scale-breadth-2026",
+    "published_date": "2026-05-29",
+    "summary_ko": "2026년 IPO 시장은 성숙한 발행자와 다양한 섹터가 특징이며, 투자자 참여가 심화되어 강력한 반등을 보이고 있다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-05-29T05:08:02.382805Z"
+  },
+  {
     "id": "gs_7ae9a9a8f0",
     "source_id": "goldman-sachs",
     "source_name": "Goldman Sachs",
