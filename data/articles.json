@@ -1,5 +1,126 @@
 [
   {
+    "id": "jpm_c025eaf897",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Where to invest cash to boost its yield",
+    "url": "https://www.jpmorgan.com/insights/investing/investment-strategy/how-to-enhance-the-yield-on-your-excess-cash",
+    "published_date": "2026-06-02",
+    "summary_ko": "수익률을 높이기 위해 현금을 투자할 수 있는 다양한 옵션을 제시하며, 맞춤형 전략과 솔루션을 통해 목표 달성을 지원합니다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-02T05:25:25.662360Z"
+  },
+  {
+    "id": "jef_a67ae63951",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "The Little-Known Financing Tool Gaining Momentum Across the Energy Sector",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/the-little-known-financing-tool-gaining-momentum-across-the-energy-sector/",
+    "published_date": "2026-05-04",
+    "summary_ko": "PDP 유가증권화는 기존 자산을 기반으로 한 투자 등급 자산을 생성하며, M&A에서 경쟁력을 높이고 있습니다. 이는 최대 70% LTV로 자금을 지원하여 실질적인 이점을 제공합니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-02T05:25:27.732689Z"
+  },
+  {
+    "id": "jef_5a4874eaa4",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Mid-Year Review: A Record-Breaking 1H of 2024 for the Secondary Market",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/mid-year-review-a-record-breaking-1h-of-2024-for-the-secondary-market/",
+    "published_date": "2024-08-08",
+    "summary_ko": "2024년 상반기 글로벌 2차 시장 거래량은 680억 달러로 기록을 세웠으며, LP 포트폴리오 가격은 NAV의 88%로 상승했습니다. 하반기에도 이러한 추세가 지속될 것으로 보입니다.",
+    "category": "Equity Markets",
+    "collected_at": "2026-06-02T05:25:28.392875Z"
+  },
+  {
+    "id": "jef_1bd863f0e5",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "How Data Centers Are Shaping the Future of Energy Consumption",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/how-data-centers-are-shaping-the-future-of-energy-consumption/",
+    "published_date": "2024-06-26",
+    "summary_ko": "데이터 센터의 수요는 연간 30% 성장 중이며, 전력 소비는 2030년까지 지속 증가할 것으로 예상된다. 물류 제약으로 도매 데이터 센터 임대료가 80% 상승했다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-02T05:25:29.194640Z"
+  },
+  {
+    "id": "jef_f7d44f0ffc",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "What’s Driving the Canadian Economy?",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/whats-driving-the-canadian-economy/",
+    "published_date": "2024-05-10",
+    "summary_ko": "캐나다 경제는 2024년 세계에서 세 번째로 빠른 성장률을 기록할 것으로 전망되며, 에너지, 금융, 기술 등 다양한 산업이 기여하고 있다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-02T05:25:29.771384Z"
+  },
+  {
+    "id": "jef_28e80ad86a",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Jefferies Head of UK Banking on the Road Ahead for Investors",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/jefferies-chief-uk-economist-on-the-road-ahead-for-investors/",
+    "published_date": "2023-12-19",
+    "summary_ko": "10월 영국 인플레이션이 6.7%에서 4.6%로 하락하며 안정성이 회복되고 있어 2024년 거래 흐름이 기대된다. 사모펀드가 기회를 찾는 가운데, 기업의 CEO 신뢰도도 중요하다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-02T05:25:30.422911Z"
+  },
+  {
+    "id": "jef_47b3dcb6bc",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Jefferies’ Economist Mohit Kumar Sees Bull Market Potential in 2024",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/jefferies-economist-mohit-kumar-sees-bull-market-potential-in-2024/",
+    "published_date": "2023-12-01",
+    "summary_ko": "모히트 쿠마르 경제학자는 2024년 글로벌 경기 회복 가능성을 언급하며, 미국의 인플레이션이 연말 2% 이하로 떨어질 것이라 전망한다. 유럽과 영국도 2025년까지 감소할 것으로 보인다. 중앙은행의 금리 인상은 끝났고, 향후 금리 인하가 예상된다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-02T05:25:30.514070Z"
+  },
+  {
+    "id": "jef_16bca1e526",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "From Lost Decade to Golden Age: A New Paradigm for Japan Inc.",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/from-lost-decade-to-golden-age-a-new-paradigm-for-japan-inc/",
+    "published_date": "2023-10-18",
+    "summary_ko": "일본은 2030년까지 세계적인 투자 수익을 기대할 수 있으며, 도쿄증권거래소의 개혁으로 기업 가치 증대에 집중하고 있다. 외국인 투자 증가와 함께 일본 시장의 기회가 본격화되고 있다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-02T05:25:30.608119Z"
+  },
+  {
+    "id": "jef_53240913f6",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Why Hedge Funds and Banks Are Forging New Alliances",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/building-partnerships-to-endure-volatility-and-times-of-transition/",
+    "published_date": "2023-06-16",
+    "summary_ko": "은행과 헤지펀드 간의 협력은 시장 변동성 속에서 기회를 포착하는 데 필수적이다. 투명한 소통과 파트너십이 중요하며, 전문성을 활용한 종합적인 접근 방식이 필요하다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-06-02T05:25:30.703412Z"
+  },
+  {
+    "id": "jef_70bf43a783",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Hedge Funds Continue Resilience through Market Turbulence",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/2023-outlook-periods-of-transition-herald-opportunity/",
+    "published_date": "2023-05-16",
+    "summary_ko": "헤지펀드는 시장 변동성 속에서 자산 증가로 경쟁이 치열해지고 있으며, 적응력이 중요하다. 최근 4년간 안정적인 성과를 보여주었고, 앞으로도 기회가 많다. 현재 금리 상승 환경에서 전략적 포지셔닝이 필요하다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-02T05:25:31.345001Z"
+  },
+  {
+    "id": "jef_281f1b4b39",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Omer Ismail on Building America’s Financial Super App",
+    "url": "https://www.jefferies.com/insights/markets/omer-ismail-on-building-americas-financial-super-app/",
+    "published_date": "2026-05-21",
+    "summary_ko": "OnePay는 월마트와 Ribbit Capital이 지원하는 금융 플랫폼으로, 600만 명의 월활성 고객을 보유하며, 미국 핀테크의 다음 시대를 구축 중이다. 월마트와의 협력을 통해 고객 획득 비용을 절감하고 있으며, AI를 활용해 서비스 효율성을 높이고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-02T05:25:32.142435Z"
+  },
+  {
     "id": "jpm_076db0bcb1",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
