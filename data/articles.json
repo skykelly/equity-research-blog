@@ -1,5 +1,137 @@
 [
   {
+    "id": "jpm_bc5d5d70f4",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Convergence in motion: Inside the institutional blockchain shift",
+    "url": "https://www.jpmorgan.com/insights/podcast-hub/making-sense/kinexys-blockchain-shift",
+    "published_date": "2026-06-03",
+    "summary_ko": "J.P. Morgan은 기관 블록체인 전환이 가속화되고 있으며, 특히 금융 시장의 유동성 관리와 지급결제 시스템 개선에 기여할 것이라고 전망한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-03T05:57:01.184893Z"
+  },
+  {
+    "id": "ms_6cad7641ff",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Geopolitical Shifts: Rewiring Global Trade",
+    "url": "https://www.morganstanley.com/insights/articles/geopolitical-tensions-accelerate-shift-to-multipolar-world-institute-2026",
+    "published_date": "2026-06-03",
+    "summary_ko": "지정학적 변화로 세계화에서 다극화로 이동 중이며, 이란 갈등과 같은 사건이 국가 안보와 지역 공급망, 전략 기술을 우선시하는 정책을 강조하고 있다. 이는 2026년까지 기업과 시장에 심화된 영향을 미칠 수 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-03T05:57:01.816792Z"
+  },
+  {
+    "id": "jef_524781ac87",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Why Context Is the Only Thing That Matters in AI",
+    "url": "https://www.jefferies.com/insights/markets/why-context-is-the-only-thing-that-matters-in-ai/",
+    "published_date": "2026-05-21",
+    "summary_ko": "ClickUp은 모든 소프트웨어를 통합하는 AI 기반 플랫폼으로, 20개 이상의 도구를 대체하여 효율성을 극대화한다. AI의 강력한 성능은 회사 특화된 맥락에서 나온다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-03T05:57:03.147124Z"
+  },
+  {
+    "id": "jef_d6682bdeab",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Anish Acharya on the Consumer Tech Renaissance and a YouTube Moment for Software",
+    "url": "https://www.jefferies.com/insights/markets/anish-acharya-on-the-consumer-tech-renaissance-and-a-youtube-moment-for-software/",
+    "published_date": "2026-05-21",
+    "summary_ko": "소비자 기술 부문에서 AI 기반 모델이 사업 모델 혁신을 이끌며, 고객이 제품에 월 200달러를 지불하는 경향을 보이고 있다. 소프트웨어 분야에서 코딩 툴은 자영업의 진입 장벽을 낮추고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-03T05:57:03.246933Z"
+  },
+  {
+    "id": "jef_5ccf88e92a",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "How Europe Became a Defining Force in the Global Secondary Market",
+    "url": "https://www.jefferies.com/insights/markets/how-europe-became-a-defining-force-in-the-global-secondary-market/",
+    "published_date": "2026-05-20",
+    "summary_ko": "유럽은 현재 전체 GP 주도 세컨더리 시장의 30%를 차지할 것으로 예상되며, 2030년까지 시장 규모가 600억 유로에 이를 것이다. 독특한 자산 프로파일을 지닌 유럽의 중견기업들이 글로벌 투자자에게 매력적인 기회를 제공한다.",
+    "category": "Equity Markets",
+    "collected_at": "2026-06-03T05:57:03.343056Z"
+  },
+  {
+    "id": "jef_28ce215db8",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "2026 IPO Market Outlook: Insights from Jefferies Private Growth Conference",
+    "url": "https://www.jefferies.com/insights/markets/2026-ipo-market-outlook-insights-from-jefferies-private-growth-conference/",
+    "published_date": "2026-05-19",
+    "summary_ko": "2026년 IPO 시장은 긍정적인 전환점에 있으며, Cerebras Systems가 55억 달러로 상장해 투자자들의 관심을 확인했다. 주요 AI 기업의 IPO가 시장 회복의 열쇠로 작용할 전망이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-03T05:57:03.444524Z"
+  },
+  {
+    "id": "jef_1bfcd4abb7",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Conrad Gibbins: Upstream M&A Market Is Stronger Than the Headlines Suggest",
+    "url": "https://www.jefferies.com/insights/markets/conrad-gibbons-upstream-ma-market-is-stronger-than-the-headlines-suggest/",
+    "published_date": "2026-05-18",
+    "summary_ko": "유가 변동성과 중동 갈등 속에서도 업스트림 M&A 시장은 활성화되고 있으며, 5년 평균 유가는 배럴당 69달러로 평가된다. 판매자들은 매각을 서두르고 있으며, 지정학적 안정성 덕분에 미국 생산이 더욱 선호받고 있다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-06-03T05:57:04.051847Z"
+  },
+  {
+    "id": "jef_0909d2586d",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Patrick Coleman on Midstream’s Most Active Period in Years",
+    "url": "https://www.jefferies.com/insights/markets/patrick-coleman-on-midstreams-most-active-period-in-years/",
+    "published_date": "2026-05-14",
+    "summary_ko": "미드스트림 부문은 유가 변동성에도 불구하고 거래 활동이 증가하고 있으며, 천연가스 수요가 우선시되고 있다. LNG 수출이 가치 상승과 함께 지속 가능성이 커지면서, 주요 기업들이 중소 자산 인수에 나서고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-03T05:57:04.190602Z"
+  },
+  {
+    "id": "jef_295fc990fb",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Amid Aerospace & Defense Boom, Investors Continue to See Opportunities in Business Aviation",
+    "url": "https://www.jefferies.com/insights/markets/amid-aerospace-defense-boom-investors-continue-to-see-opportunities-business-aviation/",
+    "published_date": "2026-05-11",
+    "summary_ko": "항공우주 및 방산 산업이 활발한 자본시장에 진입하며 2025년 M&A 거래가 41% 증가한 532건에 달했습니다. 비즈니스 항공 분야는 프랙셔널 소유권이 지속적인 성장을 보이며, 사모펀드와 가족 사무소의 관심을 끌고 있습니다. FBO와 MRO 같은 인프라 비즈니스는 안정성과 수익성을 제공하여 투자 매력이 커지고 있습니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-03T05:57:04.622047Z"
+  },
+  {
+    "id": "jef_0f8974af95",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "A Framework for Tracking the Energy Transition in 2026",
+    "url": "https://www.jefferies.com/insights/policy/a-framework-for-tracking-the-energy-transition-in-2026/",
+    "published_date": "2026-03-16",
+    "summary_ko": "2025년 글로벌 에너지 전환 투자액이 2.3조 달러로 전년 대비 8% 증가했다. Kaya 모델을 통해 탄소 배출 증가율이 저조하나, 미국은 1.9% 증가하며 저탄소 전환이 어려움을 겪고 있다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-06-03T05:57:05.214114Z"
+  },
+  {
+    "id": "jef_92c4259fec",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Venezuela: Implications for China’s Energy & U.S. Tech Rivalry",
+    "url": "https://www.jefferies.com/insights/policy/venezuela-implications-for-chinas-energy-u-s-tech-rivalry/",
+    "published_date": "2026-01-20",
+    "summary_ko": "베네수엘라의 에너지 안보와 산업 정책은 미중 기술 경쟁에 중대한 영향을 미친다. 중국의 베네수엘라 원유 수출 비중은 3%로 제한적이며, 약 100억 달러의 채무가 남아 있다. 단기적으로는 운영 중단이 예상되나, 시스템적 위험은 크지 않다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-03T05:57:05.647520Z"
+  },
+  {
+    "id": "jef_5ab06e8344",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Capital Formation, Fundraising, and M&A to Accelerate the Energy Transition",
+    "url": "https://www.jefferies.com/insights/policy/capital-formation-fundraising-and-ma-to-accelerate-the-energy-transition/",
+    "published_date": "2025-11-11",
+    "summary_ko": "일본의 에너지 전환을 촉진하기 위한 자본 형성 및 M&A에 대한 포럼에서, AI와 데이터 센터 수요 증가로 U.S. 에너지 전환이 가속화되고 있다. 자본은 충분하지만 기업 발전이 더 필요하다. Twelve Inc.는 경쟁력 있는 공급 모델을 갖춘 성공 사례로 부각된다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-03T05:57:06.196466Z"
+  },
+  {
     "id": "jpm_c025eaf897",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
