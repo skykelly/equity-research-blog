@@ -1,5 +1,93 @@
 [
   {
+    "id": "gs_34fa1e7d40",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "The S&P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher",
+    "url": "https://www.goldmansachs.com/insights/articles/s-and-p-500-forecast-to-climb-as-earnings-growth-powers-stocks-higher",
+    "published_date": "2026-05-28",
+    "summary_ko": "S&P 500의 분기 이익이 18% 증가하며 상승세가 예상된다. AI 인프라 투자 증가로 2026년까지 전체 이익 성장의 절반을 차지할 전망이다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-04T05:51:05.756623Z"
+  },
+  {
+    "id": "gs_8547252992",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "Stock Markets Are Increasingly Vulnerable to Rising Bond Yields",
+    "url": "https://www.goldmansachs.com/insights/articles/stock-markets-are-increasingly-vulnerable-to-rising-bond-yields",
+    "published_date": "2026-05-22",
+    "summary_ko": "주식 시장은 강력한 실적 성장에도 불구하고, 장기 채권 수익률 상승으로 조정 위험에 직면하고 있다. 30년물 미국 국채 수익률은 5%를 초과하며 투자 위험이 증가하고 있다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-04T05:51:05.890964Z"
+  },
+  {
+    "id": "jef_be28f3c275",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Ten Takeaways from Jefferies’ Second Indian Energy Transition Trip",
+    "url": "https://www.jefferies.com/insights/markets/ten-takeaways-from-jefferies-second-indian-energy-transition-trip/",
+    "published_date": "2025-10-13",
+    "summary_ko": "인도는 25GW의 재생 가능 에너지를 추가하며 세계 4위에서 5년 내 2위로 도약할 전망이다. 청정 에너지 용량은 현재 약 240GW로, 2030 목표의 절반에 이른다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-06-04T05:51:08.642326Z"
+  },
+  {
+    "id": "jef_db78547068",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "The Future of Carbon Removal, According to the People Building It",
+    "url": "https://www.jefferies.com/insights/policy/the-future-of-carbon-removal-according-to-the-people-building-it/",
+    "published_date": "2025-05-02",
+    "summary_ko": "탄소 제거 산업은 집중된 수요, 높은 비용, 변동하는 정부 지원의 불확실성 속에서 변화 중이다. 특히 마이크로소프트가 77%의 탄소 제거 크레딧을 구매하고 있으며, 이는 의존도를 높인다. 비용 문제는 DAC의 에너지 비용과 MRV의 높은 비용이 주요 장애물이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-04T05:51:08.749856Z"
+  },
+  {
+    "id": "jef_dd48b0a8fb",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Grid Upgrades Are Lagging—Can Drones Change That?",
+    "url": "https://www.jefferies.com/insights/policy/grid-upgrades-are-lagging-can-drones-change-that/",
+    "published_date": "2025-02-03",
+    "summary_ko": "전력망 현대화를 위한 드론 기술이 주목받고 있다. Jefferies에 따르면, 미국은 2035년까지 전송 용량을 두 배 이상 증가시킬 필요가 있으며, 인프라비전의 드론 시스템은 안전성과 효율성을 높여 기존 방식을 대체할 가능성이 크다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-06-04T05:51:09.260099Z"
+  },
+  {
+    "id": "jef_1c40edcf9f",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Japan’s GX Plan: Is the World’s Most Ambitious Energy Transition Being Overlooked?",
+    "url": "https://www.jefferies.com/insights/policy/japans-gx-plan-is-the-worlds-most-ambitious-energy-transition-being-overlooked/",
+    "published_date": "2025-01-29",
+    "summary_ko": "일본의 그린 전환 정책(GX)은 향후 10년간 1조 달러를 투자해 탄소 배출을 대폭 줄이겠다는 계획이다. GX는 일본 GDP의 2.47%를 차지하며, 이는 미국의 인플레이션 감축법보다 높은 수치이다. 일본은 2040년까지 원자력 비율을 20%로 설정하고, 20조 엔의 전환 채권을 발행할 예정이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-04T05:51:09.365902Z"
+  },
+  {
+    "id": "jef_2d08e928b6",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Ten Questions for the Energy Transition in 2025",
+    "url": "https://www.jefferies.com/insights/policy/ten-questions-for-the-energy-transition-in-2025/",
+    "published_date": "2025-01-03",
+    "summary_ko": "2025년 에너지 전환은 정책, 기술, 글로벌 갈등에 따라 불확실성이 크다. Jefferies는 1,000개 주식으로 18조 달러 규모의 기회를 제시하며, 미국 외 국가의 탈탄소화 이니셔티브에 주목할 것을 권장한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-04T05:51:09.905961Z"
+  },
+  {
+    "id": "jef_f0af2ea0dc",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "What Energy Transition Investors See in Trump’s Policy Agenda",
+    "url": "https://www.jefferies.com/insights/policy/what-energy-transition-investors-see-in-trumps-policy-agenda/",
+    "published_date": "2024-11-20",
+    "summary_ko": "트럼프 정부 하, 산업 정책 및 관세가 강화될 것으로 보이며, 이는 투자 전략에 중대한 변화를 요구할 수 있다. 특히 기존 규제의 개혁이 예상된다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-06-04T05:51:10.074442Z"
+  },
+  {
     "id": "jpm_bc5d5d70f4",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
