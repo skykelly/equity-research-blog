@@ -1,5 +1,115 @@
 [
   {
+    "id": "jpm_3310e637bd",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Beyond the stadium: Where fans go, spend follows",
+    "url": "https://www.jpmorgan.com/insights/payments/merchant-services/global-soccer-event-2026-commerce-payment-data",
+    "published_date": "2026-06-05",
+    "summary_ko": "J.P. Morgan의 연구에 따르면 스포츠 팬의 지출은 경기장이 아닌 관련 지역에서 발생하며, 이는 지역 경제에 긍정적인 영향을 미친다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-05T05:10:58.495272Z"
+  },
+  {
+    "id": "jpm_dd0f991999",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Turning liquidity challenges into growth for the healthcare industry",
+    "url": "https://www.jpmorgan.com/insights/treasury/trade-working-capital/healthcare-working-capital-solutions",
+    "published_date": "2026-06-05",
+    "summary_ko": "의료 산업의 유동성 문제를 성장 기회로 전환해야 하며, J.P. Morgan은 자금 조달과 리스크 관리 솔루션을 제공한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-05T05:10:59.089079Z"
+  },
+  {
+    "id": "ms_8e14d61932",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Banks Evaluate Opportunity—and Threat—of Digital Assets",
+    "url": "https://www.morganstanley.com/insights/articles/digital-asset-investment-wholesale-banking-outlook",
+    "published_date": "2026-06-05",
+    "summary_ko": "2025년 도매 은행의 수익은 6600억 달러에 달하며, 2030년까지 7700억 달러로 성장할 전망이다. 디지털 자산의 채택이 기회와 위협을 동시에 제공할 예정이다. 은행은 고객의 요구에 부응하기 위해 인프라 현대화에 투자해야 하며, 전통적 수익의 3~11%가 위험에 처할 수 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-05T05:11:00.057900Z"
+  },
+  {
+    "id": "jef_c22c2e9764",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Gabriel Stengel on Building the AI Platform for Investment Banking",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/gabriel-stengel-on-building-the-ai-platform-for-investment-banking/",
+    "published_date": "2026-06-04",
+    "summary_ko": "Rogo는 투자은행을 위한 AI 플랫폼으로, 효율성을 높이는 기술을 제공하며 Jefferies 등 주요 은행과 협력 중이다. 향후 1천억 달러 규모 기업으로 성장 가능성이 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-05T05:11:01.626017Z"
+  },
+  {
+    "id": "jef_c7ab9b1598",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Omer Ismail on Building America’s Financial Super App",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/omer-ismail-on-building-americas-financial-super-app/",
+    "published_date": "2026-05-21",
+    "summary_ko": "OnePay는 월마트와 협력해 금융 슈퍼 앱 구축을 가속화하고 있으며, 600만 명의 월간 활성 고객을 보유하고 있다. 플랫폼은 고객 관리의 효율성을 높이고, AI를 활용하며, 미국 핀테크의 다음 시대를 선도할 것으로 기대된다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-05T05:11:01.727225Z"
+  },
+  {
+    "id": "jef_cdc26ab285",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Why Context Is the Only Thing That Matters in AI",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/why-context-is-the-only-thing-that-matters-in-ai/",
+    "published_date": "2026-05-21",
+    "summary_ko": "ClickUp은 20개 이상의 도구를 통합한 AI 기반 플랫폼으로, 소프트웨어 통합을 통해 생산성과 효율성을 높인다. AI의 성공은 회사-specific 컨텍스트에 달려 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-05T05:11:01.835378Z"
+  },
+  {
+    "id": "jef_401d1b9c40",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Anish Acharya on the Consumer Tech Renaissance and a YouTube Moment for Software",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/anish-acharya-on-the-consumer-tech-renaissance-and-a-youtube-moment-for-software/",
+    "published_date": "2026-05-21",
+    "summary_ko": "소비자 기술 부문이 부활하며, AI 기반 제품의 새로운 가격 모델이 등장하고 있습니다. 소비자들은 월 200달러를 지불할 의향이 있으며, 이는 지속적인 가격 상승을 나타냅니다. 코드 기반의 창작 경제가 성장할 것으로 전망됩니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-05T05:11:01.929414Z"
+  },
+  {
+    "id": "jef_f734a189f2",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Five Trends Shaping the Future of Power and Utilities",
+    "url": "https://www.jefferies.com/insights/markets/five-trends-shaping-the-future-of-power-and-utilities/",
+    "published_date": "2026-05-04",
+    "summary_ko": "미국 전력 수요는 연평균 2-2.5% 성장하며 400-500GW의 용량 증가가 필요하다. 가스 발전은 24/7 수요를 충족하는 유일한 방법이며, 신규 가스 발전소 건설 비용은 2,500-3,000달러/kW로 상승했다. IPP 통합이 진행 중이다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-06-05T05:11:02.287585Z"
+  },
+  {
+    "id": "jef_edf107ff82",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Pete Bowden on Why the Middle East Crisis Is a Turning Point for Global Energy Markets",
+    "url": "https://www.jefferies.com/insights/markets/pete-bowden-on-why-the-middle-east-crisis-is-a-turning-point-for-global-energy-markets/",
+    "published_date": "2026-04-27",
+    "summary_ko": "호르무즈 해협 폐쇄로 글로벌 에너지 시장에 큰 혼란이 발생하며, 단기적으로 원유 가격은 배럴당 95~105달러에 이를 것으로 전망된다. 중장기적으로는 75~85달러 범위에서 정착할 것으로 보인다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-05T05:11:02.858966Z"
+  },
+  {
+    "id": "jef_8d12a413bd",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Growth at a Discount: Opportunities Abound in the APAC Secondaries Market",
+    "url": "https://www.jefferies.com/insights/markets/growth-at-a-discount-opportunities-abound-in-the-apac-secondaries-market/",
+    "published_date": "2026-04-07",
+    "summary_ko": "APAC의 이차 시장은 2400억 달러 규모로 10% 미만을 차지하나, 투자자 수요가 증가하고 있다. 특히, 2020~2022년 고평가된 기업들이 현재 50% 이상 저평가되어 투자 기회를 제공한다.",
+    "category": "Equity Markets",
+    "collected_at": "2026-06-05T05:11:03.340173Z"
+  },
+  {
     "id": "gs_34fa1e7d40",
     "source_id": "goldman-sachs",
     "source_name": "Goldman Sachs",
