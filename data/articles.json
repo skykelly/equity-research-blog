@@ -1,5 +1,27 @@
 [
   {
+    "id": "jpm_a77b5a20de",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "AI tools and your privacy: What you need to know",
+    "url": "https://www.jpmorgan.com/insights/cybersecurity/ransomware/rise-of-the-ai-chatbots-more-data-greater-danger",
+    "published_date": "2026-06-11",
+    "summary_ko": "AI 도구 사용 시 개인 정보 보호에 유의해야 하며, 고객 맞춤형 전략과 솔루션이 필요하다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-11T05:23:32.907891Z"
+  },
+  {
+    "id": "jef_3de1d980f7",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Germany, Switzerland and Europe’s Next Investment Cycle: Five Themes to Watch Ahead of the Jefferies German and Swiss Conference",
+    "url": "https://www.jefferies.com/insights/markets/germany-switzerland-and-europes-next-investment-cycle-five-themes-to-watch-ahead-of-the-jefferies-german-and-swiss-conference/",
+    "published_date": "2026-06-10",
+    "summary_ko": "독일의 투자 사이클이 실행 단계로 접어들며, 2027년부터 기업 수익에 실질적 영향이 예상된다. 유럽 기업들은 지정학적 불확실성에 맞춰 경쟁력을 강화하고 있다.",
+    "category": "Global Markets",
+    "collected_at": "2026-06-11T05:23:35.366733Z"
+  },
+  {
     "id": "jef_6e1fa0f9db",
     "source_id": "jefferies",
     "source_name": "Jefferies",
