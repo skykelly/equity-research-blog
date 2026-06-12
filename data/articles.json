@@ -1,5 +1,38 @@
 [
   {
+    "id": "gs_4b4fa3ced9",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "Why Spain’s Economy Is Growing Three Times Faster Than the Euro Area",
+    "url": "https://www.goldmansachs.com/insights/articles/why-spains-economy-is-growing-three-times-faster-than-the-euro-area",
+    "published_date": "2026-06-04",
+    "summary_ko": "스페인 경제는 올해 GDP가 2.1% 증가하며 유로 지역(0.7%) 대비 세 배 빠르게 성장할 전망이다. 고용 및 생산성 증가가 주요 원인이다. 그러나 높은 에너지 비용과 정치적 불안정성이 향후 리스크로 지적된다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-12T05:26:48.214369Z"
+  },
+  {
+    "id": "gs_5a700455ae",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "The Outlook for India’s Stock Market Amid the Middle East Conflict",
+    "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-indias-stock-market-amid-the-middle-east-conflict",
+    "published_date": "2026-06-03",
+    "summary_ko": "인도 주식시장은 지정학적 긴장 상황에서 투자자들의 신중함이 커지고 있다. 그러나 과거의 유사한 위기들은 장기 투자에 유리한 진입점으로 작용했다. 인도 경제는 일시적인 에너지 가격 상승 후 회복세를 보일 것으로 예상된다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-12T05:26:48.305659Z"
+  },
+  {
+    "id": "jpm_30b65ba07e",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "US tariffs: What’s the impact on global trade and the economy?",
+    "url": "https://www.jpmorgan.com/insights/global-research/current-events/us-tariffs",
+    "published_date": "2026-06-12",
+    "summary_ko": "미국의 관세가 세계 무역과 경제에 미치는 영향은 부정적이며, 향후 2년간 글로벌 GDP 성장률을 최대 0.6% 하락시킬 것으로 전망된다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-12T05:26:48.886671Z"
+  },
+  {
     "id": "jpm_a77b5a20de",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
