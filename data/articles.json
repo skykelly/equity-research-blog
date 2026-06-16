@@ -1,5 +1,49 @@
 [
   {
+    "id": "jpm_3ca87ec152",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Building a beauty brand that empowers women: Maison 276",
+    "url": "https://www.jpmorgan.com/insights/banking/impact-banking/building-community-maison-276",
+    "published_date": "2026-06-16",
+    "summary_ko": "J.P. Morgan은 Maison 276의 뷰티 브랜드 구축을 통해 여성 Empowerment에 기여하고 있으며, 이는 시장 성장 기회를 포착하는 전략으로 평가된다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-16T06:26:57.851186Z"
+  },
+  {
+    "id": "ms_7a35079a35",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Energy: Transitioning to Resilience",
+    "url": "https://www.morganstanley.com/insights/articles/energy-transition-and-decarbonization",
+    "published_date": "2026-06-16",
+    "summary_ko": "에너지 전환이 단순한 저탄소 전력으로의 이동을 넘어, 안전하고 확장 가능한 시스템 구축 경쟁으로 진화하고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-16T06:26:58.308020Z"
+  },
+  {
+    "id": "ms_cad673db1c",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Media and Beverages Score at World Cup",
+    "url": "https://www.morganstanley.com/insights/articles/fifa-world-cup-2026-economic-impact",
+    "published_date": "2026-06-16",
+    "summary_ko": "2026 FIFA 월드컵은 48개 팀 104경기로 개최되며, 더욱 젊고 부유한 팬층으로 인해 미디어 및 소비재 분야에 기회가 창출될 것으로 예상된다.",
+    "category": "Global Markets",
+    "collected_at": "2026-06-16T06:26:58.410674Z"
+  },
+  {
+    "id": "jef_e1be8bedc2",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Strong Labor Market Complicates the Case for Fed Rate Cuts",
+    "url": "https://www.jefferies.com/insights/policy/strong-labor-market-complicates-the-case-for-fed-rate-cuts/",
+    "published_date": "2026-06-15",
+    "summary_ko": "강력한 노동 시장이 연준의 금리 인하 가능성을 복잡하게 하고 있다. 2026년 초, 비농업 고용이 월평균 114,000개 증가하며, 노동 공급 부족이 심화될 조짐을 보인다. AI 관련 채용 증가도 나타나고 있어 향후 경쟁이 치열해질 전망이다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-16T06:26:59.549713Z"
+  },
+  {
     "id": "jpm_90263f3d19",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
