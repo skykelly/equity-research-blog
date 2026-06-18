@@ -1,5 +1,49 @@
 [
   {
+    "id": "gs_77211b246b",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "Private Markets Are Expected to Have a Growing Role in Data Center Financing",
+    "url": "https://www.goldmansachs.com/insights/articles/private-markets-expected-to-have-growing-role-in-data-center-financing",
+    "published_date": "2026-06-12",
+    "summary_ko": "AI 데이터 센터 자금 조달에 따른 사모시장 비중이 증가하고 있으며, 2030년까지 5조 달러의 자본 지출이 예상된다. 사모 인프라 펀드는 2025년 2,210억 달러를 모집하며, 주목받고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-18T05:49:36.276851Z"
+  },
+  {
+    "id": "jpm_a748d8b40f",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Washington, D.C., multifamily market update",
+    "url": "https://www.jpmorgan.com/insights/real-estate/commercial-term-lending/washington-dc-multifamily-market-outlook",
+    "published_date": "2026-06-18",
+    "summary_ko": "워싱턴 D.C. 다가구 시장은 지속적인 수요 증가로 안정적인 성장세를 보이고 있으며, 임대 수익률은 5%에 달할 것으로 전망된다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-18T05:49:36.958172Z"
+  },
+  {
+    "id": "jpm_3da09d3b2d",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "When ransomware takes your defenses offline, what's left?",
+    "url": "https://www.jpmorgan.com/insights/payments/security-trust/ransomware-secondary-fraud-payment-defenses",
+    "published_date": "2026-06-18",
+    "summary_ko": "랜섬웨어 공격으로 방어체계가 무너지면 기업의 위기 관리 및 리스크 관리 능력에 큰 타격이 발생한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-18T05:49:37.204722Z"
+  },
+  {
+    "id": "jef_387215992f",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Private Equity’s New Liquidity Engine: Rapid Growth in Co-Investment Secondary Volume Is Serving Both Sellers and Buyers Well",
+    "url": "https://www.jefferies.com/insights/markets/private-equitys-new-liquidity-engine-rapid-growth-in-co-investment-secondary-volume-shows-they-are-serving-both-sellers-and-buyers-well/",
+    "published_date": "2026-06-17",
+    "summary_ko": "지난해 사모펀드 모집이 17% 감소한 반면, 공동투자 모집은 17% 증가해 약 270억 달러에 달했다. 이는 공동투자의 핵심 투자처로서의 성장을 나타낸다. 공동투자는 LP에게 비용 절감과 집중 투자 기회를 제공하며, 현재 유사한 유동성 압박을 겪고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-18T05:49:39.075860Z"
+  },
+  {
     "id": "jpm_cad87ec918",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
