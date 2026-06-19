@@ -1,5 +1,49 @@
 [
   {
+    "id": "jpm_1365c7647c",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "How J.P. Morgan Payments facilitated Fortescue’s next-gen treasury transformation",
+    "url": "https://www.jpmorgan.com/insights/treasury/liquidity-management/fortescue-global-treasury-transformation",
+    "published_date": "2026-06-19",
+    "summary_ko": "J.P. Morgan은 Fortescue의 차세대 재무 혁신을 지원하여 현금 흐름 관리와 성장 기회를 극대화할 수 있도록 했다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-19T06:09:22.357986Z"
+  },
+  {
+    "id": "jpm_b6b9bd2254",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "$1.5 trillion goods trade is on the line in USMCA's first test",
+    "url": "https://www.jpmorgan.com/insights/markets-and-economy/top-market-takeaways/tmt-15-trillion-goods-trade-is-on-the-line-in-usmcas-first-test",
+    "published_date": "2026-06-19",
+    "summary_ko": "USMCA의 첫 번째 테스트에서 1.5조 달러 규모의 상품 무역 영향이 주목받고 있으며, 이는 투자자들에게 주요 리스크 요인으로 작용할 전망이다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-06-19T06:09:22.618086Z"
+  },
+  {
+    "id": "ms_34639b9d4a",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Asia’s Energy Buildout Gains Momentum",
+    "url": "https://www.morganstanley.com/insights/articles/asia-energy-capex-9t-opportunity-2030",
+    "published_date": "2026-06-12",
+    "summary_ko": "아시아는 다음 5년 동안 5.5조 달러를 에너지에 투자할 것으로 예상되며, 이는 공급망 강화와 경제 성장을 위한 필수 조치입니다. 에너지 자본 지출 증가로 9조 달러의 기회가 창출될 것입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-19T06:09:23.019052Z"
+  },
+  {
+    "id": "ms_6ded3a1621",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Travel Rewards Fuel Growth of Premium Credit Cards",
+    "url": "https://www.morganstanley.com/insights/articles/premium-travel-co-brand-credit-card-market-outlook",
+    "published_date": "2026-06-19",
+    "summary_ko": "프리미엄 여행 카드의 수익이 2035년까지 약 1천억 달러로 성장할 것으로 예상된다. 그러나 항공사와 호텔의 협상력이 높아져 카드 발급은행의 이익이 줄어들 위험이 존재한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-19T06:09:23.178441Z"
+  },
+  {
     "id": "gs_77211b246b",
     "source_id": "goldman-sachs",
     "source_name": "Goldman Sachs",
