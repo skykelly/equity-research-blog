@@ -1,5 +1,27 @@
 [
   {
+    "id": "jpm_ad654ed1ce",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Detect account takeover before it hits",
+    "url": "https://www.jpmorgan.com/insights/payments/security-trust/account-takeover-behavioral-monitoring",
+    "published_date": "2026-06-23",
+    "summary_ko": "J.P. Morgan은 기업과 기관을 위한 맞춤형 자금 관리 솔루션을 제공하며, M&A 및 자본 조달 등의 투자은행 서비스를 통해 장기 전략 목표 달성을 지원합니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-23T04:54:56.192567Z"
+  },
+  {
+    "id": "bii_ea76118d24",
+    "source_id": "blackrock",
+    "source_name": "BlackRock BII",
+    "title": "Energy security in a world shaped",
+    "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/energy-security-ai-power-demand",
+    "published_date": "2026-06-23",
+    "summary_ko": "국제 에너지 안보가 글로벌 경제에 미치는 영향이 커지고 있으며, 에너지 전환이 투자 포트폴리오에 중대한 기회를 창출할 것으로 보인다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-06-23T04:54:57.301263Z"
+  },
+  {
     "id": "jpm_1365c7647c",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
