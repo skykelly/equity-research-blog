@@ -1,5 +1,49 @@
 [
   {
+    "id": "gs_65ffd6e702",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "Why Oil Prices Could ‘Grind Lower’ Amid the US-Iran Deal",
+    "url": "https://www.goldmansachs.com/insights/articles/why-oil-prices-could-grind-lower-amid-the-us-iran-deal",
+    "published_date": "2026-06-18",
+    "summary_ko": "석유 가격은 미국과 이란의 중재 합의로 인하 추세를 보이고 있으며, 브렌트유는 76달러로 하락했습니다. 공급 과잉 우려 속에 향후 50~60달러로 감소할 가능성이 높습니다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-06-26T05:03:55.613363Z"
+  },
+  {
+    "id": "gs_ef38741975",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "The Outlook for Data Centers in Asia",
+    "url": "https://www.goldmansachs.com/insights/articles/the-outlook-for-data-centers-in-asia",
+    "published_date": "2026-06-10",
+    "summary_ko": "아시아 데이터 센터 전망은 매우 긍정적이며, 중국의 수요는 2025~2028년 동안 연평균 20% 성장할 것으로 보입니다. 인도, 일본, 필리핀도 주요 성장 시장으로 부각되고 있습니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-26T05:03:55.688030Z"
+  },
+  {
+    "id": "jpm_b8c17f3bbe",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Unlocking opportunity in ADGM",
+    "url": "https://www.jpmorgan.com/insights/treasury/treasury-management/adgm-multicurrency-treasury-operations",
+    "published_date": "2026-06-26",
+    "summary_ko": "ADGM에서 J.P. Morgan은 기업 맞춤형 금융 솔루션과 산업별 전문성을 제공하여 전략적 목표 달성을 지원합니다. 고객들은 성장을 위한 유동성 관리 및 자산 운용 기회를 활용할 수 있습니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-26T05:03:56.241857Z"
+  },
+  {
+    "id": "jpm_85732ae262",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "AI, defense and IPOs drive industrial innovation",
+    "url": "https://www.jpmorgan.com/insights/banking/mergers-and-acquisitions/industrial-innovation-trends",
+    "published_date": "2026-06-26",
+    "summary_ko": "AI, 방산, IPO가 산업 혁신을 주도하고 있으며, 이러한 변화가 새로운 투자 기회를 창출할 것으로 보인다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-26T05:03:56.423310Z"
+  },
+  {
     "id": "jpm_8419969003",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
