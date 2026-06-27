@@ -1,5 +1,60 @@
 [
   {
+    "id": "jpm_6db3c77780",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "The world changed in 10 days: An oil unwind and a hawkish Fed",
+    "url": "https://www.jpmorgan.com/insights/markets-and-economy/top-market-takeaways/tmt-the-world-changed-in-10-days-an-oil-unwind-and-a-hawkish-fed",
+    "published_date": "2026-06-27",
+    "summary_ko": "석유 시장 조정과 매파적인 연준 정책이 주요 이슈로 부각되며, 이번 변화는 향후 유가와 금리에 큰 영향을 미칠 것으로 전망된다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-06-27T04:44:59.797666Z"
+  },
+  {
+    "id": "jpm_f5589b0874",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Healthcare markets outlook: A “dynamic” landscape ripe for M&A deals and cross-border partnerships",
+    "url": "https://www.jpmorgan.com/insights/banking/investment-banking/healthcare-mid-year-outlook",
+    "published_date": "2026-06-27",
+    "summary_ko": "헬스케어 시장은 M&A 거래와 해외 파트너십 기회가 풍부해 동적 성장 가능성이 높다. 전문가들은 시장 확장과 혁신을 통해 2024년에도 긍정적인 성장을 예상하고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-27T04:45:00.120767Z"
+  },
+  {
+    "id": "ms_cfbc3f9a36",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "The Race to Power the AI Economy",
+    "url": "https://www.morganstanley.com/insights/articles/power-ai-economy-race-to-reliable-energy-institute-2026",
+    "published_date": "2026-06-27",
+    "summary_ko": "AI 성장으로 에너지 수요가 급증하며 신뢰할 수 있는 전력 공급이 경제적 자산으로 부각되고 있다. 규제 현대화와 에너지 용량 확대가 필요하다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-27T04:45:01.164580Z"
+  },
+  {
+    "id": "ms_90a9f6bf5f",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "How AI, Capital Deployment and Consumer Resilience Are Reshaping Finance",
+    "url": "https://www.morganstanley.com/insights/articles/financial-services-industry-trends-executive-insights-2026",
+    "published_date": "2026-06-24",
+    "summary_ko": "금융업계는 높은 금리에 대응하며 AI 인프라와 프라이빗 크레딧에 자본을 배치하고 있으며, 소비자는 안정적인 신용 성과로 회복세를 보이고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-27T04:45:01.353519Z"
+  },
+  {
+    "id": "ms_4ece2a9cfc",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Pet Owners Tighten the Leash on Spending",
+    "url": "https://www.morganstanley.com/insights/articles/pet-industry-growth-outlook-2026",
+    "published_date": "2026-06-27",
+    "summary_ko": "애완동물 시장은 팬데믹 덕분에 급성장했지만, 비용 상승으로 소비자 지출이 줄어들며 성장률이 2030년까지 약 4%로 둔화될 예정이다. 의료 서비스는 필수 항목으로 부상하고 있으며, 소유자의 60%가 수의사를 신뢰한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-06-27T04:45:01.518508Z"
+  },
+  {
     "id": "gs_65ffd6e702",
     "source_id": "goldman-sachs",
     "source_name": "Goldman Sachs",
