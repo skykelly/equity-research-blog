@@ -1,5 +1,49 @@
 [
   {
+    "id": "jpm_2e25690d07",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Turning the tide: Revitalizing the US shipbuilding industry",
+    "url": "https://www.jpmorgan.com/insights/global-research/supply-chain/us-shipbuilding",
+    "published_date": "2026-07-01",
+    "summary_ko": "미국 조선업의 회복이 예상되며, 군사 및 상업용 선박 수요 증가가 핵심 요인으로 작용할 전망이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-01T05:15:42.584664Z"
+  },
+  {
+    "id": "jpm_2c7baa1423",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Using bridge loans with agency financing in multifamily",
+    "url": "https://www.jpmorgan.com/insights/real-estate/agency-lending/commercial-bridge-loans-and-agency-lending",
+    "published_date": "2026-07-01",
+    "summary_ko": "J.P. Morgan은 다가구 주택의 브릿지 론과 에이전시 금융을 활용하여 유동성 관리 및 성장 기회를 극대화할 것을 강조한다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-01T05:15:42.820544Z"
+  },
+  {
+    "id": "jpm_8922c50492",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "The Paramount-Warner Bros. merger",
+    "url": "https://www.jpmorgan.com/insights/banking/mergers-and-acquisitions/paramount-warner-bros",
+    "published_date": "2026-05-26",
+    "summary_ko": "제목과 본문 내용에 대한 정보가 부족하여 특정 투자 인사이트나 시장 전망을 포함한 요약을 제공할 수 없습니다. 추가 정보를 제공해 주시면 요약을 도와드리겠습니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-01T05:15:43.111183Z"
+  },
+  {
+    "id": "jpm_15b20c1ec6",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "BILL gives small and midsize businesses access to credit in minutes with Embedded Finance from J.P. Morgan",
+    "url": "https://www.jpmorgan.com/insights/payments/embedded-finance-baas/bill-embedded-payments-api-sub-ledger",
+    "published_date": "2026-05-20",
+    "summary_ko": "J.P. Morgan의 Embedded Finance 솔루션을 통해 중소기업은 신속하게 신용에 접근할 수 있으며, 이는 현금 흐름 관리를 강화하고 성장 기회를 포착하도록 돕습니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-01T05:15:43.583591Z"
+  },
+  {
     "id": "jpm_ce4045ff74",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
