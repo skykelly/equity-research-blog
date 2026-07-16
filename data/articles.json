@@ -1,5 +1,38 @@
 [
   {
+    "id": "gs_2a1d4446a3",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "AI Investment Is Shifting as Inference, Enterprise Adoption Accelerate",
+    "url": "https://www.goldmansachs.com/insights/articles/ai-investment-is-shifting-as-inference-enterprise-adoption-accelerate",
+    "published_date": "2026-07-09",
+    "summary_ko": "AI 기업 도입이 가속화되며, 상위 5% 기업의 토큰 소비가 중간 기업의 3배로 증가하고 있습니다. 이는 컴퓨팅 인프라에 압박을 가하며, AI 채택은 향후 몇 년 간 지속될 전망입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-16T03:56:13.139058Z"
+  },
+  {
+    "id": "gs_eb98259cf6",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "Biotech Stocks Are Projected to Extend Rally Amid Innovation and M&A",
+    "url": "https://www.goldmansachs.com/insights/articles/biotech-stocks-are-projected-to-extend-rally-amid-innovation",
+    "published_date": "2026-07-10",
+    "summary_ko": "바이오텍 주식은 혁신과 M&A로 상승세를 이어갈 것으로 전망된다. NYSE 아르카와 나스닥 바이오텍 지수는 각각 56% 상승하며 기술주를 초과했다. 글로벌 비만 치료제 시장의 2030년 매출은 1140억 달러로 15% 증가할 것으로 보인다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-16T03:56:13.298047Z"
+  },
+  {
+    "id": "jpm_9e0b2ef49c",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "How HexClad’s new take on kitchen essentials unlocked growth",
+    "url": "https://www.jpmorgan.com/insights/banking/investment-banking/how-hexclad-scaled-a-brand-built-on-innovative-cookware",
+    "published_date": "2026-07-15",
+    "summary_ko": "HexClad는 혁신적인 주방 필수품으로 성장의 기회를 창출하고 있으며, 특히 프리미엄 세그먼트에서 2025년까지 20% 시장 점유율 목표를 설정하고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-16T03:56:13.892072Z"
+  },
+  {
     "id": "ms_20c7d9f528",
     "source_id": "morgan-stanley",
     "source_name": "Morgan Stanley",
