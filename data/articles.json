@@ -1,5 +1,60 @@
 [
   {
+    "id": "ms_5c3541ebbf",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "What This Choppy Market Is Telling Investors",
+    "url": "https://www.morganstanley.com/insights/articles/market-risks-portfolio-positioning-July-2026",
+    "published_date": "2026-06-24",
+    "summary_ko": "주식시장은 불안정한 국면에 있으며, S&P 500 지수가 최고치에서 제자리걸음을 하고 있다. 투자자들은 기업 실적에 긍정적이지만, 내부의 큰 변화가 상쇄하고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-21T04:10:37.058251Z"
+  },
+  {
+    "id": "ms_fca752abb4",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Watch Out for a Fed Pause",
+    "url": "https://www.morganstanley.com/insights/articles/fed-rate-pause-fixed-income-market-impact-2026",
+    "published_date": "2026-07-21",
+    "summary_ko": "Morgan Stanley는 미국 연준이 올해 금리 인상을 보류할 것이라 전망하며, 2027년에는 두 차례 금리 인하가 있을 것으로 예상합니다. 낮은 인플레이션과 노동 시장 둔화가 주요 요인입니다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-07-21T04:10:37.132242Z"
+  },
+  {
+    "id": "ms_bd656abe7d",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Robotaxis Enter the Fast Lane",
+    "url": "https://www.morganstanley.com/insights/articles/robotaxis-1-trillion-dollar-investor-opportunity",
+    "published_date": "2026-07-21",
+    "summary_ko": "로봇택시 시장은 2040년까지 약 1조 달러 규모로 성장할 전망이며, 2028년에는 손익 분기점을 넘길 것으로 예상된다. 2035년까지 250만 대가 운행될 예정이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-21T04:10:37.210897Z"
+  },
+  {
+    "id": "ms_17da5d0a78",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "The New Streaming Reality",
+    "url": "https://www.morganstanley.com/insights/articles/streaming-industry-trends-driving-loyalty-2026",
+    "published_date": "2026-07-21",
+    "summary_ko": "미국 가구당 평균 5.4개의 스트리밍 서비스에 가입하며, 소비자 참여가 증가하고 있습니다. 플랫폼의 콘텐츠 품질이 구독 유지의 핵심이며, 전통 케이블 사용자는 40%로 감소했습니다.",
+    "category": "Global Markets",
+    "collected_at": "2026-07-21T04:10:37.347646Z"
+  },
+  {
+    "id": "jef_9cc8438375",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "The World Is Pulling Away From America. Japan Is Leaning In",
+    "url": "https://www.jefferies.com/insights/policy/the-world-is-pulling-away-from-america-japan-is-leaning-in/",
+    "published_date": "2026-07-20",
+    "summary_ko": "일본은 미국과의 역사적 5500억 달러 투자 협약을 통해 경제 협력을 강화하며, 녹색 혁신과 산업 정책에 적극 나서고 있다. 일본의 외국인 직접 투자와 미국 내 고용이 증가하는 가운데, 일본은 글로벌 투자자들에게 중요한 기회로 부각되고 있다.",
+    "category": "Geopolitics",
+    "collected_at": "2026-07-21T04:10:38.968173Z"
+  },
+  {
     "id": "jpm_3351659605",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
