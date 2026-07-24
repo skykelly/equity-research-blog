@@ -1,5 +1,27 @@
 [
   {
+    "id": "ms_c123cecba7",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Midterm Elections: More Noise Than Change?",
+    "url": "https://www.morganstanley.com/insights/articles/2026-us-midterm-elections-stock-market-impact",
+    "published_date": "2026-07-22",
+    "summary_ko": "미국 중간 선거는 권력 균형을 결정하지만, Morgan Stanley는 정책 영향이 제한적일 것으로 전망한다. 시장은 중간 선거 결과보다 지속 가능한 정책 변화를 더 주목해야 한다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-07-24T04:08:49.333878Z"
+  },
+  {
+    "id": "ms_a963faf0f1",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Can Europe Fund Its Future Without Adding Debt?",
+    "url": "https://www.morganstanley.com/insights/articles/europe-fiscal-policy-reset-growth-outlook-2026",
+    "published_date": "2026-07-24",
+    "summary_ko": "유럽은 고령화와 방위비 증가로 재정 압박을 받고 있으며, 공공지출이 GDP의 50%에 달한다. 이에 따라 2040년까지 유럽 대다수 국가의 지출이 GDP의 3%포인트 이상 증가할 것으로 보인다. Morgan Stanley는 성장을 지원하는 정책이 필요하다고 강조한다.",
+    "category": "Macro & Rates",
+    "collected_at": "2026-07-24T04:08:49.415576Z"
+  },
+  {
     "id": "gs_efbf15c17d",
     "source_id": "goldman-sachs",
     "source_name": "Goldman Sachs",
