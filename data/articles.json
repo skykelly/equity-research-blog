@@ -1,5 +1,27 @@
 [
   {
+    "id": "jpm_8f067faf1b",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Powering Fervo’s journey in next-generation geothermal",
+    "url": "https://www.jpmorgan.com/insights/banking/impact-banking/fervo-energy-scaling-next-generation-geothermal-power",
+    "published_date": "2026-07-27",
+    "summary_ko": "Fervo 에너지의 차세대 지열 에너지 기술이 상용화 단계에 진입하며, 2025년까지 연간 생산량 1GW 목표로 삼고 있다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-28T03:55:27.135851Z"
+  },
+  {
+    "id": "jef_0bd63c3b75",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "Rebecca Schwartz on Why the Contract-to-Cash Problem Is AI’s Next Big Opportunity",
+    "url": "https://www.jefferies.com/insights/leadership-spotlight/rebecca-schwartz-on-why-the-contract-to-cash-problem-is-ais-next-big-opportunity/",
+    "published_date": "2026-07-27",
+    "summary_ko": "재정 관리 소프트웨어는 계약 체결 후 복잡한 청구 및 수익 인식을 AI 기반 플랫폼으로 전환하고 있다. Tabs는 비구조적 데이터를 처리해 신속한 청구와 수익 인식을 가능케 하며, 대표적인 사례로 5배 성장한 회사이다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-07-28T03:55:28.964207Z"
+  },
+  {
     "id": "ms_c123cecba7",
     "source_id": "morgan-stanley",
     "source_name": "Morgan Stanley",
