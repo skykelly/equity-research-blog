@@ -1,5 +1,27 @@
 [
   {
+    "id": "ms_8cd296424f",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Affordability Could Tip Tight Midterm Elections",
+    "url": "https://www.morganstanley.com/insights/articles/2026-midterm-elections-market-impact-investor-outlook",
+    "published_date": "2026-08-07",
+    "summary_ko": "Morgan Stanley의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "Geopolitics",
+    "collected_at": "2026-08-07T03:43:38.367397Z"
+  },
+  {
+    "id": "ms_2675ee3b42",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "How Donor-Advised Funds Can Expand Impact Investing",
+    "url": "https://www.morganstanley.com/insights/articles/donor-advised-funds-impact-investing-opportunity",
+    "published_date": "2026-08-07",
+    "summary_ko": "Morgan Stanley의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "Global Markets",
+    "collected_at": "2026-08-07T03:43:38.448998Z"
+  },
+  {
     "id": "jpm_564db9d628",
     "source_id": "jpmorgan",
     "source_name": "J.P. Morgan",
