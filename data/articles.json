@@ -1,5 +1,38 @@
 [
   {
+    "id": "ms_4c88325c66",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Checking IDs for AI Agents",
+    "url": "https://www.morganstanley.com/insights/articles/agentic-ai-doubles-identity-security-market",
+    "published_date": "2026-09-05",
+    "summary_ko": "Morgan Stanley의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-09-05T05:07:06.712374Z"
+  },
+  {
+    "id": "ms_a71a46110a",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "Caffeinated Beverages Get New Buzz",
+    "url": "https://www.morganstanley.com/insights/articles/caffeine-market-outlook-outpace-industry-2026",
+    "published_date": "2026-09-05",
+    "summary_ko": "Morgan Stanley의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "Energy & Climate",
+    "collected_at": "2026-09-05T05:07:06.883583Z"
+  },
+  {
+    "id": "ms_a335fcccdf",
+    "source_id": "morgan-stanley",
+    "source_name": "Morgan Stanley",
+    "title": "The Next Phase of Private Markets Growth",
+    "url": "https://www.morganstanley.com/insights/articles/private-market-outlook-2026",
+    "published_date": "2026-09-05",
+    "summary_ko": "Morgan Stanley의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-09-05T05:07:06.963449Z"
+  },
+  {
     "id": "gs_fe63f26d8e",
     "source_id": "goldman-sachs",
     "source_name": "Goldman Sachs",
