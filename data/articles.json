@@ -1,5 +1,60 @@
 [
   {
+    "id": "gs_7b774859bf",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "Why Global Bond Yields Are Expected to Stay Elevated",
+    "url": "https://www.goldmansachs.com/insights/articles/why-global-bond-yields-are-expected-to-stay-elevated",
+    "published_date": "2026-09-09",
+    "summary_ko": "Goldman Sachs의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "Equity Markets",
+    "collected_at": "2026-09-17T05:37:44.229647Z"
+  },
+  {
+    "id": "gs_2effffa113",
+    "source_id": "goldman-sachs",
+    "source_name": "Goldman Sachs",
+    "title": "Is AI Impacting Global Labor Markets?",
+    "url": "https://www.goldmansachs.com/insights/articles/is-ai-impacting-global-labor-markets",
+    "published_date": "2026-09-03",
+    "summary_ko": "Goldman Sachs의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-09-17T05:37:44.617750Z"
+  },
+  {
+    "id": "jpm_c8ade797fb",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Main Sequence: Building the next generation of deep tech",
+    "url": "https://www.jpmorgan.com/insights/banking/financing/main-sequence-building-the-next-generation-of-deep-tech",
+    "published_date": "2026-09-16",
+    "summary_ko": "J.P. Morgan의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-09-17T05:37:45.527235Z"
+  },
+  {
+    "id": "jpm_dcd003082b",
+    "source_id": "jpmorgan",
+    "source_name": "J.P. Morgan",
+    "title": "Vertex Ventures: Investing in physical AI’s next frontier",
+    "url": "https://www.jpmorgan.com/insights/banking/financing/vertex-ventures-investing-in-physical-ais-next-frontier",
+    "published_date": "2026-09-16",
+    "summary_ko": "J.P. Morgan의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-09-17T05:37:45.868369Z"
+  },
+  {
+    "id": "jef_bf550331b7",
+    "source_id": "jefferies",
+    "source_name": "Jefferies",
+    "title": "The Next Chapter of the UAE–India Trade Corridor",
+    "url": "https://www.jefferies.com/insights/markets/the-next-chapter-of-the-uae-india-trade-corridor/",
+    "published_date": "2026-09-16",
+    "summary_ko": "Jefferies의 최신 글로벌 금융 시장 분석 리포트입니다.",
+    "category": "AI & Technology",
+    "collected_at": "2026-09-17T05:37:48.797118Z"
+  },
+  {
     "id": "ms_028193564b",
     "source_id": "morgan-stanley",
     "source_name": "Morgan Stanley",
